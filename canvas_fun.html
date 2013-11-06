@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+  <head>
+    <title>having fun with html canvas</title>
+  </head>
+  <body>
+    <canvas id="stage" width="500" height="500"></canvas>
+
+    <script type="text/javascript">
+      var ctx = document.querySelector("#stage").getContext('2d');
+      var w = ctx.canvas.width, h = ctx.canvas.height;
+      
+      var m = 0.01;
+      function weird() {
+        for (var i = 0; i < 100; i++) {
+          ctx.beginPath();
+          ctx.moveTo(0, 0);
+          ctx.lineTo(i * m, (w - i));
+          ctx.closePath();
+          ctx.stroke();
+        }
+      }
+      
+      setInterval(function() {
+        ctx.clearRect(0, 0, w, h);
+        weird();
+        m += 0.01;
+      }, 100);
+    </script>
+  </body>
+</html>
