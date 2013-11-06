@@ -34,4 +34,4 @@
   the html page that you just created
 - to preview your changes you can view the `index.html` file locally
 
-[index.html]: https://github.com/heyLu/codegirls/tree/master/index.html
+[index.html]: https://github.com/heyLu/codegirls/blob/a5ceb1e0/hackerblog/index.html
