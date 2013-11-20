@@ -1,3 +1,8 @@
+---
+title: Hello World
+whatsthis: Jekyll needs this block to recognize markdown files that should be converted
+---
+
 # Hello, World!
 
 Now you already know **3** programming languages:
