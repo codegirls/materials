@@ -6,6 +6,14 @@ let's them them prettier.
 
 oh, and if you'd like to we can hack some advent calendars.
 
+# devtools
+
+on any page in your browser (in chrome or firefox) you can right-click
+on any element on the page and select "inspect element" (or similar).
+this will open the "inspector"-tool that allows you to see the model of
+the page the browser uses. you can also edit the page with it, adding or
+changing text and styles.
+
 # CSS
 
 * a language that is used for styling (Cascading Style Sheets)
