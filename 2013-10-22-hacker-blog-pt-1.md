@@ -34,4 +34,9 @@
   the html page that you just created
 - to preview your changes you can view the `index.html` file locally
 
+## Resources
+
+- [GitHub Bootcamp](https://help.github.com/categories/54/articles)
+- [interactive git course](https://try.github.io/levels/1/challenges/1)
+
 [index.html]: https://github.com/heyLu/codegirls/blob/a5ceb1e0/hackerblog/index.html
