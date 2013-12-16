@@ -14,6 +14,7 @@ in the future (probably):
 * hacker blog pt 3: questions, linking between stuff, probably
   templating and/or css
 * more ruby
+* more challenging topics, e.g. something to solve alone/in teams
 
 ideas for topics
 
