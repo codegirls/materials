@@ -42,10 +42,10 @@ and doesn't save the pixels across restart.
 * `pixl.color`: the default color. you can specify any css color value
   you want, though starting with `red`, `green` or `yellow` might be
   easiest. if you want a special color, try the [css color picker][] and
-  set the color to the value it gives you
+  set the color to the value it gives you.
     - example: `pixl.color = "red";`
-* `pixl.online`: set to `false` if you want to try things out alone
-  (note that you will loose your state if you reload.
+* `pixl.online`: set to `false` if you want to try things out alone.
+  (note that you will loose your state if you reload.)
 
 [css color picker]: http://csscolorpicker.com/
 
