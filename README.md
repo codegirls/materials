@@ -8,6 +8,7 @@ so far:
 * [2013-11-05][]: hacker blog pt 2, jekyll & markdown, maximum confusion
 * [2013-11-19][]: hacker blog pt 3, recap (& templating)
 * [2013-12-03][]: hello css, hello templates
+* [2013-12-17][]: christmas special, let's pixl together!
 
 in the future (probably):
 
@@ -31,3 +32,4 @@ ideas for topics
 [2013-11-05]: 2013-11-05-hacker-blog-pt-2.md
 [2013-11-19]: 2013-11-19-hacker-blog-pt-3.md
 [2013-12-03]: 2013-12-03-hello-css-hello-templates.md
+[2013-12-17]: 2013-12-17-christmas-special.md
