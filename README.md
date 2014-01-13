@@ -25,6 +25,9 @@ ideas for topics
   (for starting out with javascript)
 * a simple synthesizer (overtone would be awesome, otherwise something
   in ruby?)
+* some reading material (js primer) and a task to accomplish as a
+  slightly more difficult task that requires a bit of thinking and
+  experimenting.
 
 [2013-09-24]: 2013-09-24-canvas-fun.md
 [2013-10-08]: 2013-10-08-image-gallery-and-ruby-can-count.md
