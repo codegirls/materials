@@ -23,8 +23,8 @@ ideas for topics
   easier for starters
 * a collaborative, 2d, colored pixel-placing game with a simple api
   (for starting out with javascript)
-* a simple synthesizer (overtone would be awesome, otherwise something
-  in ruby?)
+* a simple synthesizer ([overtone](http://overtone.github.io) would be
+  awesome, otherwise something in javascript?)
 * some reading material (js primer) and a task to accomplish as a
   slightly more difficult task that requires a bit of thinking and
   experimenting.
