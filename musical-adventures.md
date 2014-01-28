@@ -16,10 +16,10 @@ because overtone is written in Clojure, which is a LISP, which means it
 has lots of parentheses that scare some programmers and also make it
 a wonderful language for all kinds of things.
 
-to evaluate code in that file, go to the line containing the code and
-press `Ctrl + Enter`. the first time you do that it will take a while,
-but when it finishes a little blue box should appear besides the line
-you evaluated.
+to evaluate (execute) code in that file, go to the line containing the
+code and press `Ctrl + Enter`. the first time you do that it will take a
+while, but when it finishes a little blue box should appear besides the
+line you evaluated.
 
 start by evaluating the very first line in `noise.clj`. (the one with
 `(ns noise ...` in it.)
