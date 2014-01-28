@@ -158,3 +158,10 @@ just make sure to quickly google it first and ask if that's confusing too.
 
 (there's also the [forum](http://moot.it/code-girls-leipzig) where you can post
 your questions.)
+
+## there's still more, of course.
+
+not only, there's [pixl](http://pixl.papill0n.org), now there's also
+[trixl](http://pixl.papill0n.org/3)!
+
+and if you're particularly adventurous, you can also [make music](musical-adventures.md).
