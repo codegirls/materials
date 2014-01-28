@@ -2,7 +2,7 @@
 
 today, we're going to draw little pixels together.
 
-[let's start!](http://pixl.papill0n.org:8001)
+[let's start!](http://pixl.papill0n.org)
 
 now you can place pixels on the screen by clicking somewhere. you can
 move around using the arrow keys and zoom in and out using the scroll
