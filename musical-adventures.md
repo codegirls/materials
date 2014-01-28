@@ -30,8 +30,8 @@ after that, evaluate the other expressions in the file.
 
 the [overtone website](https://overtone.github.io) has an overview.
 
-the code in `noise.clj` is mostly from these [two][beats]
-[articles][chords] on the [wiki][wiki].
+the code in `noise.clj` is mostly from [these][beats] [two][chords]
+articles on the [wiki][wiki].
 
 there's also a [cheatsheet][] with lots of funny names of functions on
 it that you can try out.
