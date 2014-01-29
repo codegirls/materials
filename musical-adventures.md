@@ -7,7 +7,7 @@ we're going to make music using [overtone](https://overtone.github.io).
 ## quickstart
 
 * install [Light Table](http://lighttable.com)
-* download and extract [quick-make-music!]
+* download and extract [quick-make-music!](https://github.com/heyLu/templates/archive/quick-make-music!.zip)
 * open Light Table and press `Ctrl + Shift + o` and open the file
     `noise.clj` from the extracted folder.
 
