@@ -34,12 +34,26 @@ know quite a lot and could help the others or do more experiments.
 
 let's get started.
 
+### by running some code
+
+All the `pixl`s that are drawn are actually shared to all other users
+as you draw them. For experimenting around, it is better to disconnect
+and draw on your own and then come back online and show the others
+what you did.
+
+Go to [pixl](http://pixl.papill0n.org) in your browser, open the
+console and type the following to disconnect:
+
+    pixl.disconnectAndClear();
+
+Now you can play around as much as you want and noone else's drawings
+will get overdrawn.
+
 ### ... with an example
 
-let's draw a horizontal line. go to [pixl](http://pixl.papill0n.org)
-in your browser, open the console and type the following. (use `shift-enter`
-to go to a new line without executing the code you typed so far. only
-type enter when you have typed all of it.)
+let's draw a horizontal line. in the console, type the following (use
+`shift-enter` to go to a new line without executing the code you typed
+so far. only type enter when you have typed all of it.)
 
 ```
 function horizontal_line(start, length) {
