@@ -1,6 +1,7 @@
 # musical adventures
 
-if you dare to, you can make music. because i didn't prepare it very well.
+if you dare to, you can make music. things might be quite a bit rough,
+because i didn't prepare it very well.
 
 we're going to make music using [overtone](https://overtone.github.io).
 
@@ -13,7 +14,7 @@ we're going to make music using [overtone](https://overtone.github.io).
 
 now you should have a file open with lots of parentheses in it. that's
 because overtone is written in Clojure, which is a LISP, which means it
-has lots of parentheses that scare some programmers and also make it
+has lots of parentheses that scare some programmers and also makes it
 a wonderful language for all kinds of things.
 
 to evaluate (execute) code in that file, go to the line containing the

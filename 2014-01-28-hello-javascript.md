@@ -161,7 +161,7 @@ your questions.)
 
 ## there's still more, of course.
 
-not only, there's [pixl](http://pixl.papill0n.org), now there's also
+not only there's [pixl](http://pixl.papill0n.org), now there's also
 [trixl](http://pixl.papill0n.org/3)!
 
 and if you're particularly adventurous, you can also [make music](musical-adventures.md).
