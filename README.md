@@ -10,6 +10,7 @@ so far:
 * [2013-12-03][]: hello css, hello templates
 * [2013-12-17][]: christmas special, let's pixl together!
 * [2014-01-28][]: hello, javascript. (more pixls, this times with functions.)
+* [2014-02-11][]: more javascript.
 
 in the future (probably):
 
@@ -38,3 +39,4 @@ ideas for topics
 [2013-12-03]: 2013-12-03-hello-css-hello-templates.md
 [2013-12-17]: 2013-12-17-christmas-special.md
 [2014-01-28]: 2014-01-28-hello-javascript.md
+[2014-02-11]: 2014-02-11-more-javascript.md
