@@ -2,7 +2,7 @@
 
 actually, more fancy things using JavaScript.
 
-if you haven't done part 1, yet, do that first: [hello, javascript](2014-01-29-hello-javascript.md).
+if you haven't done part 1, yet, do that first: [hello, javascript](2014-01-28-hello-javascript.md).
 
 today, we're going to make some more interesting shapes, move pixls
 around and share the code we wrote.
@@ -173,7 +173,7 @@ it also makes it possible to get your functions back easily after a reload.
 
 ## links
 
-i still recommend the [links from last week](2014-01-29-hello-javascript.md#phew), but
+i still recommend the [links from last week](2014-01-28-hello-javascript.md#phew), but
 here are some more:
 
 * [Coding Math](http://youtube.com/user/CodingMath/videos): simple math makes cool things,
