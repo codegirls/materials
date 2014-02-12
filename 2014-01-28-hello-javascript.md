@@ -22,7 +22,7 @@ read one of the following:
 ## javascript 101
 
 the following examples can all be run from the browser console,
-which you can open with `Ctrl + Shift + I` or `Cmd + Shift + K`.
+which you can open with `Ctrl + Shift + I` or `Cmd + Alt + K`.
 to run them, open the console and type the code you see below
 in the console and type `Enter` to run it. i recommend that you
 really type it out instead of copying it so you remember what
