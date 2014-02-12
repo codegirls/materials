@@ -24,7 +24,13 @@ here are some tips:
     points we need to figure out where our "steps" should go. to do this we
     need a (normalized) vector.
 
-    `point = vector`, normalized = length 1, draw n length-1 steps = line
+    the normalized vector represents the "step" we have to take to draw
+    one pixl of the line. to get a line, we execute that step n times.
+
+    here are two videos about vectors:
+
+    - [Vectors Part 1](http://www.youtube.com/watch?v=DfGOw8_ZaBA)
+    - [Vectors Part 2](http://www.youtube.com/watch?v=zYOGtlY6xaM)
 * rectangles are quite simple, just think about them for a bit. (and maybe
     draw them empty, filled and with a checkerboard inside.)
 * houses are just a rectangle and two lines. but what if we want houses with
