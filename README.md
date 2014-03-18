@@ -30,6 +30,8 @@ ideas for topics
 * some reading material (js primer) and a task to accomplish as a
   slightly more difficult task that requires a bit of thinking and
   experimenting.
+* building a simple text-adventure (with `prompt` and friends or simply
+  with links, not sure yet)
 
 [2013-09-24]: 2013-09-24-canvas-fun.md
 [2013-10-08]: 2013-10-08-image-gallery-and-ruby-can-count.md
