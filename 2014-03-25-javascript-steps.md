@@ -1,7 +1,10 @@
 # JavaScript in small steps.
 
-Today, we'll mostly use code for the explanations. Just open the console
-on this page (`Ctrl + Shift + I` or `Cmd + Alt + K`). The explanations
+Ok, let's try something different today. We're going to invent a time
+machine. But we're going to do it in very small steps.
+
+We'll mostly use code for the explanations. Just open the console on
+this page (`Ctrl + Shift + I` or `Cmd + Alt + K`). The explanations
 themselves will be in *comments*. Comments are lines that start with
 `//`. JavaScript ignores those so you can write anything you want in
 them.
@@ -9,6 +12,13 @@ them.
 You should try out all the code below. Type it in the console and see
 what it does. And then try to change it a bit and see how the result you
 get back changes.
+
+And one more thing: We recommend to go through these examples with
+someone else. That way you can help each other along, try explaining
+things (this always helps!) and hopefully it's a bit more fun when it
+gets a bit difficult.
+
+So, let's go.
 
     // JavaScript understands numbers:
     3;
