@@ -11,6 +11,7 @@ so far:
 * [2013-12-17][]: christmas special, let's pixl together!
 * [2014-01-28][]: hello, javascript. (more pixls, this times with functions.)
 * [2014-02-11][]: more javascript.
+* [2014-03-25][]: JavaScript in small steps.
 
 in the future (probably):
 
@@ -42,3 +43,4 @@ ideas for topics
 [2013-12-17]: 2013-12-17-christmas-special.md
 [2014-01-28]: 2014-01-28-hello-javascript.md
 [2014-02-11]: 2014-02-11-more-javascript.md
+[2014-03-25]: 2014-03-25-javascript-steps.md
