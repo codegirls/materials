@@ -285,7 +285,7 @@ Ok, one more:
 
     Math.random();
 
-    Math,random() * 1000;
+    Math.random() * 1000;
 
     Math.round(Math.random() * 1000);
 
