@@ -86,8 +86,8 @@ get back changes.
 
     // Try describing what incrementCount does in your own words.
 
-    // Ok, good. Now we can increment numbers, but that's still a far
-    // stretch from `vertical_line`.
+    // Ok, good. Now we can increment numbers, but that's still a bit
+    // boring.
     // Yes, but it's a start. Let's experiment a bit with those object
     // thingies.
 
