@@ -200,3 +200,100 @@ how the result you get back changes.
         }
         return newPerson;
     }
+
+    // Whew, that's quite a thing. But that `for`-thing still is a bit
+    // mysterious, but that's just because it has a few things hiding it.
+
+    // First, it's called a "for-loop". "loop" means that it repeats
+    // something. (There are other loops in JavaScript, the "while-loop"
+    // and the "do-while-loop". They're just different ways to write
+    // loops. Look them up if you're curious.)
+
+    // The thing inside the curly braces is called the "body" of the
+    // for-loop. The statements in there will be executed until the
+    // for-loop is finished.
+
+    // for (...) { your_statements_here }
+
+    // But what does "finished" mean? I'm glad you asked. Here's a
+    // for-loop that never executes it's body:
+
+    for (; false;) {
+        console.log("you will never see this text printed!");
+    }
+
+    // So, after the first for-loop comes the "condition": Before
+    // executing the body, the for-loop checks if the condition is true. If
+    // it is, it executes the body, if not, it is finished.
+
+    // What are the other parts of the for loop? They're the
+    // "initialization" and the thing that changes. Sorry, I've got no
+    // better name for the third thing.
+
+    // for (initialization; condition; change_thing) { your_statements_here) }
+
+    // You can read for-loops as "Initialize, and then execute the
+    // statements in the body as long as the condition is true. Oh, and
+    // execute the change thing each time after the statements."
+
+    // Now we can count again:
+
+    for (var count = 0; count < 10; count += 1) {
+        console.log(count);
+    }
+
+    // With explanations:
+
+    for (var count = 0; // At the start, count is 0.
+         count < 10;    // As long as count < 10
+         count += 1) {  // increment count.
+        console.log(count); // But first print the count.
+    } // Check again!
+
+That's all for now.
+
+## Bonus
+
+More types.
+
+    // JavaScript also knows other types:
+    "Strings!";
+
+    // Booleans (you know them already)
+    true;
+    false;
+
+    2 < 4;
+    2 == 4;
+
+    ({a: 3}).a == ({a: 4}).a;
+
+    // arrays
+    ["i", "can", "contain", "multiple", "things"];
+
+    ["and", "even", "different", "things:", 42];
+
+    var cats = ["Nyan", "Pusheen", "HTTP Status Cat"];
+    cats[0];
+
+And JavaScript can ask you things:
+
+    var ageString = prompt("How old are you?");
+    var age = parseInt(ageString);
+
+Ok, one more:
+
+    Math.random();
+
+    Math,random() * 1000;
+
+    Math.round(Math.random() * 1000);
+
+    // Run the following on http://pixl.papill0n.org
+
+    pixl.disconnectAndClear();
+    for (var i = 0; i < 50; i++) {
+        var posX = -20 + Math.random() * 40;
+        var posY = -20 + Math.random() * 40;
+        pixl.draw_pixl({x: posX, y: posY}, "green");
+    }
