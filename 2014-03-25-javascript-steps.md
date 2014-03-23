@@ -1,39 +1,14 @@
 # JavaScript in small steps.
 
-If you've never programmed before, a lot of things about JavaScript seem
-weird and kind-of unexplainable. Apart from the stuff we usually do,
-I'll try and explain the line example again, this time, from the ground
-up.
+Today, we'll mostly use code for the explanations. Just open the console
+on this page (`Ctrl + Shift + I` or `Cmd + Alt + K`). The explanations
+themselves will be in *comments*. Comments are lines that start with
+`//`. JavaScript ignores those so you can write anything you want in
+them.
 
-Let's have a look at it again:
-
-    function vertical_line(start, length) {
-        var draw_y = start.y;
-        for (var draw_x = start.x; draw_x < start.x + length; draw_x += 1) {
-            pixl.draw_pixl({x: draw_x, y: draw_y});
-        }
-    }
-
-    vertical_line({x: 0, y: 0}, 10);
-
-Mhh. That's a lot of stuff. Here's a little image with all the different
-parts highlighted:
-
-![...](...)
-
-As you can see, it involves a lot of parts. So let's take it apart. As
-with most things, the individual parts are quite simple, actually.
-
-## From Literals to Function Invocations
-
-From now on, we'll mostly use code for the explanations. The
-explanations themselves will be in *comments*. Comments are lines that
-start with `//`. JavaScript ignores those so you can write anything you
-want in them.
-
-One more note: You should try out all the code below. Type it in the
-console and see what it does. And then try to change it a bit and see
-how the result you get back changes.
+You should try out all the code below. Type it in the console and see
+what it does. And then try to change it a bit and see how the result you
+get back changes.
 
     // JavaScript understands numbers:
     3;
