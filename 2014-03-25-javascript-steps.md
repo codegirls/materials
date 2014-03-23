@@ -45,7 +45,7 @@ how the result you get back changes.
     {}
 
     // Objects have attributes:
-    {a: 1, b: 2}    // an object with the attributes `a` and `b`
+    ({a: 1, b: 2});    // an object with the attributes `a` and `b`
 
     // So now we have numbers and objects, but how can we do anything
     // with them?
@@ -196,7 +196,7 @@ how the result you get back changes.
         var newPerson = person;
         for (var n = 0; n < numberOfJumps; n += 1) {
             newPerson = birthdayTimeMachine(newPerson);
-            console.log("Jumped " + n + 1 " times, now " + newPerson.age + " years old.");
+            console.log("Jumped " + (n + 1) + " times, now " + newPerson.age + " years old.");
         }
         return newPerson;
     }
