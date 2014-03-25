@@ -9,19 +9,17 @@ themselves will be in *comments*. Comments are lines that start with
 `//`. JavaScript ignores those so you can write anything you want in
 them.
 
-You should try out all the code below. Type it in the console and see
-what it does. And then try to change it a bit and see how the result you
-get back changes.
+Try changing **everything**. The values, the names, everything. That's
+how you learn how it works. If you changed something and it still works
+you'll know you have understood it.
 
-Really, try changing **everything**. The values, the names, everything.
-If you're not changing anything, you're missing something. You can't do
-anything wrong. In the worst case, you can make your browser crash, but
-even that is an advanced topic. :)
+So if you see a heading and haven't tried the examples *and* changed
+stuff, go back and do it. :)
 
 And one more thing: We recommend to go through these examples with
 someone else. That way you can help each other along, try explaining
-things (this always helps!) and hopefully it's a bit more fun when it
-gets a bit difficult.
+things (this always helps!) and hopefully it's a more fun when it gets
+a bit difficult.
 
 So, let's go.
 
