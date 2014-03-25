@@ -13,6 +13,11 @@ You should try out all the code below. Type it in the console and see
 what it does. And then try to change it a bit and see how the result you
 get back changes.
 
+Really, try changing **everything**. The values, the names, everything.
+If you're not changing anything, you're missing something. You can't do
+anything wrong. In the worst case, you can make your browser crash, but
+even that is an advanced topic. :)
+
 And one more thing: We recommend to go through these examples with
 someone else. That way you can help each other along, try explaining
 things (this always helps!) and hopefully it's a bit more fun when it
@@ -26,11 +31,26 @@ So, let's go.
     -1;
     3.141592653589793;
 
+Try and see if JavaScript understands your favourite numbers. Try writing
+numbers as you would do on paper and see if JavaScript understands them. If
+it doesn't, it will complain. (Most likely with a `SyntaxError`.)
+
+Also, what's the biggest number JavaScript understands? What does it do if
+you give it a bigger number than that?
+
     // And objects:
     {}
 
     // Objects have attributes:
     ({a: 1, b: 2});    // an object with the attributes `a` and `b`
+
+Ok, what can you do with objects and numbers? Try and see if you can make
+some of the following:
+
+* an object describing a person that is `n` years old
+* an object that describes several persons (an object can contain objects)
+
+In general, you can put any values into an objects, even functions!
 
     // So now we have numbers and objects, but how can we do anything
     // with them?
@@ -40,6 +60,13 @@ So, let's go.
     2 - 1;
     2 * 4;
     2 / 4;
+
+JavaScript is a calculator. Surely, there's something you might want to calculate.
+For example, here's how many millieseconds have passed between the start of this
+month and now: `new Date().getTime() - new Date("2014-03-01").getTime()`.
+
+And if you want to know how many days that are, just divide it by `1000 * 60 * 60 * 24`.
+(A second has 1000 milliseconds, a minute 60 seconds, an hour ...).
 
     // Ok, but numbers are quite boring. We don't even know how to count things.
 
@@ -59,6 +86,10 @@ So, let's go.
     count = count + 1;
     count;
 
+Ok, if you haven't typed that yourself, now is the time! Change the names, add
+multiple variables together and then maybe calculate how old you are in days.
+
+    // Back to counting. Let's start again.
     count = 0;
     count = count + 1;
     count = count + 1;
@@ -80,6 +111,11 @@ So, let's go.
     count = 0;
     incrementCount();
 
+As always, change all the things! Some suggestions:
+
+* write a `doubleCount` function
+* make a function that uses a different variable
+
     // Very nice. But it would be nice if incrementCount told us what
     // the new count were. Just in case we forgot.
 
@@ -94,7 +130,8 @@ So, let's go.
     incrementCount();
     incrementCount();
 
-    // Try describing what incrementCount does in your own words.
+Try describing what incrementCount does in your own words. Or maybe write
+a function that returns your age in days.
 
     // Ok, good. Now we can increment numbers, but that's still a bit
     // boring.
@@ -122,9 +159,9 @@ So, let's go.
     fred.age = fred.age + 1;
     fred.age;
 
-    // Try doing the same for is height. (Remember, exactly 0.03 meters.)
+Try doing the same for is height. (Remember, exactly 0.03 meters.)
 
-    // ... (Try it!)
+... (Try it!)
 
     // Ok, let's write the happyBirthday function:
     function happyBirthday(person) {
@@ -139,6 +176,15 @@ So, let's go.
     fred.height;
 
     // Hooray! Happy Birthday and stuff.
+
+Maybe older people don't grow as much? Or younger people grow a lot more?
+Try writing the functions for those. Or just change the values in the
+`happyBirthday` function. Or even calculate the growth rate given the
+height?
+
+It doesn't matter what exactly you try, but it's very important that you
+do it. You'll learn something about JavaScript along the way and piece by
+piece you're doing cooler things.
 
     // Okay, let's make something a little bit different. Let's pretend
     // we have a time machine.
@@ -158,6 +204,13 @@ So, let's go.
     var paula = {age: 6, height: 0.81};
     var olderPaula = birthdayTimeMachine(paula);
 
+Ok, this might be a little bit difficult to understand. So change some
+things to see if you understand what happens.
+
+Other things can happen if you get older, for example, you could get
+smarter, less naive or happier. it's up to you, change the time machine
+to do something slightly different.
+
     // We can do interesting things with this, like jumping multiple
     // birthdays forward:
 
@@ -168,6 +221,12 @@ So, let's go.
         console.log("Paula is now " + olderPaula.age + " years old and " + olderPaula.height + " meters tall.");
     }
     console.log("Time jump finished!");
+
+Aaand again, a good place to stop and think about what just happened.
+
+JavaScript has `strings` (those things in quotes), you put text in them
+and even "add" them. try doing that on your own, for example:
+`"Hello, " + "World!"`.
 
     // We could also cheat and do it all in one step...
     var olderPaula2 = {age: paula.age + 1 * howManyJumps, height: paula.height + 0.03 * howManyJumps};
