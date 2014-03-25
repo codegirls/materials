@@ -23,6 +23,8 @@ a bit difficult.
 
 So, let's go.
 
+## Numbers
+
     // JavaScript understands numbers:
     3;
     4;
@@ -35,6 +37,8 @@ it doesn't, it will complain. (Most likely with a `SyntaxError`.)
 
 Also, what's the biggest number JavaScript understands? What does it do if
 you give it a bigger number than that?
+
+## Objects
 
     // And objects:
     {}
@@ -49,6 +53,8 @@ some of the following:
 * an object that describes several persons (an object can contain objects)
 
 In general, you can put any values into an objects, even functions!
+
+## We can do stuff with numbers
 
     // So now we have numbers and objects, but how can we do anything
     // with them?
@@ -65,6 +71,8 @@ month and now: `new Date().getTime() - new Date("2014-03-01").getTime()`.
 
 And if you want to know how many days that are, just divide it by `1000 * 60 * 60 * 24`.
 (A second has 1000 milliseconds, a minute 60 seconds, an hour ...).
+
+## Counting
 
     // Ok, but numbers are quite boring. We don't even know how to count things.
 
@@ -86,6 +94,8 @@ And if you want to know how many days that are, just divide it by `1000 * 60 * 6
 
 Ok, if you haven't typed that yourself, now is the time! Change the names, add
 multiple variables together and then maybe calculate how old you are in days.
+
+## Functions.
 
     // Back to counting. Let's start again.
     count = 0;
@@ -114,6 +124,8 @@ As always, change all the things! Some suggestions:
 * write a `doubleCount` function
 * make a function that uses a different variable
 
+## Return values
+
     // Very nice. But it would be nice if incrementCount told us what
     // the new count were. Just in case we forgot.
 
@@ -130,6 +142,8 @@ As always, change all the things! Some suggestions:
 
 Try describing what incrementCount does in your own words. Or maybe write
 a function that returns your age in days.
+
+## Numbers inside objects
 
     // Ok, good. Now we can increment numbers, but that's still a bit
     // boring.
@@ -161,6 +175,8 @@ Try doing the same for is height. (Remember, exactly 0.03 meters.)
 
 ... (Try it!)
 
+## `happyBirthday(fred)`
+
     // Ok, let's write the happyBirthday function:
     function happyBirthday(person) {
         person.age = person.age + 1;
@@ -183,6 +199,8 @@ height?
 It doesn't matter what exactly you try, but it's very important that you
 do it. You'll learn something about JavaScript along the way and piece by
 piece you're doing cooler things.
+
+## A time machine!
 
     // Okay, let's make something a little bit different. Let's pretend
     // we have a time machine.
@@ -209,6 +227,8 @@ Other things can happen if you get older, for example, you could get
 smarter, less naive or happier. it's up to you, change the time machine
 to do something slightly different.
 
+## Loops
+
     // We can do interesting things with this, like jumping multiple
     // birthdays forward:
 
@@ -225,6 +245,8 @@ Aaand again, a good place to stop and think about what just happened.
 JavaScript has `strings` (those things in quotes), you put text in them
 and even "add" them. try doing that on your own, for example:
 `"Hello, " + "World!"`.
+
+## What's a `for`-loop?
 
     // We could also cheat and do it all in one step...
     var olderPaula2 = {age: paula.age + 1 * howManyJumps, height: paula.height + 0.03 * howManyJumps};
