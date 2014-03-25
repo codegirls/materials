@@ -316,6 +316,18 @@ and even "add" them. try doing that on your own, for example:
 
 That's all for now.
 
+## Something to think about
+
+It will really help you if you try this at home. Even if you don't find a
+solution, you'll come with questions next time.
+
+* repeat some of the things above. just do them again, maybe try something
+    a little bit different.
+* try making a loop that counts backwards
+* count from 42 to 101 and than backwards from 101 to 42
+
+And come back with questions!
+
 ## Bonus
 
 More types.
