@@ -373,3 +373,8 @@ Ok, one more:
         var posY = -20 + Math.random() * 40;
         pixl.draw_pixl({x: posX, y: posY}, "green");
     }
+
+## Resources
+
+* the ones from [previous sessions](2014-01-28-hello-javascript.md#phew)
+* an [interactive introduction to JavaScript](http://gitbookio.github.io/javascript/)
