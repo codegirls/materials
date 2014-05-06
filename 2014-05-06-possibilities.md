@@ -31,8 +31,64 @@ More questions:
         array[2]; // => ?
     - `haveISeenYouBefore`?
 
+## Simone
+
+To run the functions below, put them in [pipes][] and supply the appropriate input.
+
+* tokenize: input: the base text you want to use, [Project Gutenberg](http://gutenberg.org)
+    has a huge collection of public domain texts availlable.
+
+    ```
+    return input.split(/([\s,\.\?!]+)/).filter(function(s) { return s.match(/\w+|[,\.\?!]/); }).map(function(s) { return s.trim(); });
+    ```
+* generate dictionary: input is the output from `tokenize`
+
+    ```
+    var dict = {};
+
+    var previousWord = null;
+    for (var i = 0; i < input.length; i++) {
+        var word = input[i];
+        if (previousWord != null) {
+            if (!dict[previousWord]) {
+                dict[previousWord] = [];
+            }
+            dict[previousWord].push(word);
+        }
+        previousWord = word;
+
+    }
+
+    return dict;
+    ```
+* generate sentence
+
+    ```
+    function chooseRandom(obj) {
+        var keys = Object.keys(obj);
+        var length = keys.length;
+        var key = keys[Math.floor(Math.random() * length)];
+        return obj[key];
+    }
+
+    var sentence = "";
+    var currentWord = chooseRandom(Object.keys(input));
+    for (var l = 0; ; l++) {
+        sentence += currentWord + " ";
+        var followWords = input[currentWord];
+        if (currentWord == "." || followWords.length == 0) {
+            break;
+        }
+        currentWord = chooseRandom(followWords);
+    }
+
+    return sentence;
+    ```
+
 ## Other things
 
-* [interact with functions](http://papill0n.org/weird_dreams/pipes.html)
+* [interact with functions][pipes]
 * [babl](http://babl.papill0n.org)
 * SuperCollider
+
+[pipes]: http://papill0n.org/weird_dreams/pipes.html
