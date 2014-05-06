@@ -88,7 +88,15 @@ To run the functions below, put them in [pipes][] and supply the appropriate inp
 ## Other things
 
 * [interact with functions][pipes]
-* [babl](http://babl.papill0n.org)
+* [babl](http://babl.papill0n.org), a (very) simple chat server
+
+    we can write code that says things here:
+
+    ```
+    ws.onmessage = makeListener(function(msg) {
+        sendMessage(msg.content + " yourself!");
+    });
+    ```
 * SuperCollider
 
 [pipes]: http://papill0n.org/weird_dreams/pipes.html
