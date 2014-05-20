@@ -133,8 +133,35 @@ Sorry, grumpy mathematician, you know you should have talked of
 
 ## Our first adventure
 
-Enough with the simple things, let's try an example. A small one, to be sure,
+Enough with the simple things, let's try an adventure. A small one, to be sure,
 but an adventure nonetheless.
+
+    alert("You are in a small room. There's a dark corner. Maybe there's a monster in it.");
+
+    var sayHello = confirm("Do you say hello to it?");
+    if (sayHello) {
+        alert("You say hello to the monster. But it doesn't answer. Maybe it's just shy.");
+    } else {
+        alert("The corner smiles. You're not sure if that's good.");
+        alert("The monster has dinner.");
+    }
+
+Ok, let's break that down a bit.
+
+* first, you tell our adventurer something. kind of like an exposé
+* then, you ask the user if they want to greet the monster
+
+    you do this by using `confirm`, which returns `true` for an affirmative
+    answer and `false` otherwise.
+
+    we interpret those as "yes" and "no", respectively.
+* depending on the answer, you display different endings to the user.
+
+And now, you're going to write your own adventure. Have fun!
+
+## A bigger adventure
+
+Let's try a bigger one. It even has two rooms!
 
 > You are in a small room. It has two doors, do you take the first?
 
