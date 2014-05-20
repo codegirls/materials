@@ -1,0 +1,37 @@
+<p>We're going on an adventure...</p>
+
+<script>
+var takeFirstDoor = confirm("You are in a small room. It has two doors, do you take the first?");
+
+if (takeFirstDoor == true) {
+    var lookAtBooks = confirm("You take the first door. It's a nice room, with a comfy chair."
+        + "\nOh, it also has some books in it.\n Want to take a closer look?");
+    
+    if (lookAtBooks == true) {
+        var whichBook = prompt("You take a closer look. There are three of them."
+            + "\n\nThe first has lots of signs and triangles on it, the second"
+            + " has an eye on it and the third one has just a circle one it."
+            + "\n\nWhich one do you want to see? (triangles, eye or circle)");
+
+        if (whichBook == "triangles") {
+            alert("Principia Mathematica, it says on the front."
+                  + " You think of the mathematician from before and shudder.");
+            location = "https://en.wikipedia.org/wiki/Principia_Mathematica";
+        } else if (whichBook == "eye") {
+            alert("It's a book about cats, rejoice!");
+            location = "http://www.amazon.com/Cute-Cats-Around-World-pictures/dp/148189076X";
+        } else if (whichBook == "circle") {
+            alert("It's not a book at all, it's some kind of moving image in a frame...");
+            location = "https://www.youtube.com/watch?v=QncgmzH6yQU";
+        } else {
+            alert("That's not a book!");
+            location = "http://httpcats.herokuapp.com/404";
+        }
+    } else {
+        alert("Mhh... okay. Goodbye.");
+    }
+} else {
+    alert("The second room is scary, don't go there! (Also, it doesn't quite"
+          + "exist yet as I didn't get around to think of what we could do there...");
+}
+</script>
