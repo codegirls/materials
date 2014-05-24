@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+  <head>
+    <title>{{ page.title }} - codegirls</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700" />
+    <link rel="stylesheet" href="http://cobyism.com/gridism/gridism.css" />
+    <link rel="stylesheet" href="../style/base.css" />
+    <style>
+      pre {
+        font-size: 13pt;
+        padding: 1em;
+      }
+
+      pre, pre > code { background-color: rgba(249, 249, 249, 1); }
+
+      code { background-color: #f3f3f3; }
+
+      #next {
+        border-top: 1px solid #ddd;
+        padding-top: 1em;
+        text-align: center;
+      }
+    </style>
+  </head>
+
+  <body>
+    {{ page.content | markdownify }}
+
+    <p id="next">
+    {% if page.next %}
+      Continue with the <a href="{{ page.next }}">next tutorial</a>.
+    {% else %}
+      View <a href="../">all tutorials</a>.
+    {% endif %}
+    </p>
+
+    <footer id="footer">
+      <p>© 2014 <a href="http://codegirls.de">CodeGirls</a>
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt">(CC-BY-SA)</a></p>
+
+      <p>This site is <a href="https://github.com/codegirls/materials">open-source</a>,
+        fixes and <a href="https://github.com/codegirls/materials/issues">suggestions</a>
+        are very welcome!</p>
+    </footer>
+  </body>
+</html>
