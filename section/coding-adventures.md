@@ -207,4 +207,4 @@ Let's try a bigger one. It even has two rooms!
     }
 
 That was a lot of stuff, let's skip the rest. You can play the game
-[here](http://codegirls.github.io/materials/first-adventure.html)
+[here](../examples/first-adventure.html)
