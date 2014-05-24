@@ -1,0 +1,167 @@
+<!doctype html>
+<html>
+  <head>
+    <title>materials - codegirls</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Merriweather:400,400italic,700" />
+    <link rel="stylesheet" href="http://cobyism.com/gridism/gridism.css" />
+    <style>
+      body {
+        max-width: 800px;
+        margin: 0 auto;
+        font-family: "Merriweather";
+        font-size: 12pt;
+      }
+
+      h1 {
+        font-size: 250%;
+        text-align: center;
+      }
+
+      .topic {
+        max-width: 50%;
+      }
+
+      .topic li { padding: 0.1em; }
+      .topic h3 { margin-top: 0.5em; margin-bottom: 0.1em; }
+      .topic p { margin: 0.1em 0; }
+      .topic a { color: black; }
+
+      .topic .unfinished, .topic .unfinished a { color: #aaa; }
+      .topic li.unfinished:hover { background-color: white; }
+
+      .topic li:hover {
+        background-color: #efefef;
+        border-radius: 0.25em;
+        transition: background-color 0.3s;
+      }
+
+      @media (max-width: 568px) {
+        body { margin: 0.5em 1em; }
+        .topic { max-width: 100%; }
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Materials</h1>
+    <!--current materials (week or recent?)
+    by topic (html, javascript, other)
+      kind of unbalanced, most are about js, possibly beginner/advanced?
+    series of topics
+    not by date (not in the url/title, add as metadata)-->
+
+    <p>This is a collection of materials we're using for
+      <a href="http://codegirls.de">our</a> meetings. Feel free to look around
+      and try some of these.</p>
+
+    <p>If you always wanted to do <em>X</em> and don't see it here,
+      <a href="mailto:suggestions@codegirls.de">tell us</a>!</p>
+
+    <div class="grid">
+      <section class="topic pull-left">
+        <h2>JavaScript</h2>
+        <ol>
+          <li>
+            <h3>Hello, JavaScript</h3>
+            <p>Introducing literals, variables, loops and some serious
+              counting action.</p>
+          </li>
+          <li>
+            <h3>pixl</h3>
+            <p>Collaborative, contemporary art in your browser, powered
+              by your newfound ability to draw squares and other mysteries.</p>
+          </li>
+          <li>
+            <h3><a href="2014-03-25-javascript-steps.html">Time Machine</a></h3>
+            <p>Learning more about loops, objects and functions and how
+              programmers love stretching analogies.</p>
+          </li>
+          <li>
+            <h3>Coding Adventures</h3>
+            <p>Writing a text adventure game using our newly acquired skills.
+              Involves magic, cat pictures and a grumpy mathematician.</p>
+          </li>
+        </ol>
+      </section>
+
+      <section class="topic pull-right">
+        <h2>HTML &amp; CSS</h2>
+        <ol>
+          <li>
+            <h3>The tiniest blog</h3>
+            <p>A whirlwind introduction to HTML &amp; basic CSS and how to
+              get cat pictures to appear on your website.</p>
+          </li>
+          <li>
+            <h3>Makin' it shine</h3>
+            <p>An introduction to CSS.</p>
+          </li>
+          <li class="unfinished">
+            <h3>Blinkenlights</h3>
+            <p>Reliving the 90s and learning about CSS3.</p>
+          </li>
+          <li class="unfinished">
+            <h3>The Web is Yours</h3>
+            <p>You can look behind the scenes of any website and change
+              it. (And how Justin Bieber just <em>loves</em> giraffes.)</p>
+          </li>
+        </ol>
+      </section>
+    </div>
+
+    <div class="grid">
+      <section class="topic pull-left">
+        <h2>Misc.</h2>
+        <ol>
+          <li class="unfinished">
+            <h3>Singing with Sines</h3>
+            <p>Playing with <a href="http://supercollider.sf.net/">SuperCollider</a>
+              to make music with computers</p>
+          </li>
+        </ol>
+      </section>
+
+      <section class="topic pull-right">
+        <h2>Tools</h2>
+        <ol>
+          <li class="unfinished">
+            <h3>Developer Tools</h3>
+            <p>The essential tools of the web developer: the <em>Console</em>
+              and the <em>Inspector</em>. (May or may not involve actual detectives.)</p>
+          </li>
+          <li class="unfinished">
+            <h3>Documentation</h3>
+            <p>It's not <em>all</em> magic, or how developers can't survive without
+              search engines for very long. (Know where to look and how yo make sense
+              of all that fancy gibberish.)</p>
+          </li>
+        </ol>
+      </section>
+    </div>
+
+    <div class="grid">
+      <section class="topic pull-left">
+        <h2>Background</h2>
+        <ol>
+          <li class="unfinished">
+            <h3>Glossary</h3>
+            <p>A handy reference to keep you from despairing in a sea of acronyms,
+              always changing terms and lots of fancy words.</p>
+          </li>
+          <li class="unfinished">
+            <h3>How the Web works</h3>
+            <p>It's mostly <del>cat pictures</del> links, actually.</p>
+          </li>
+        </ol>
+      </section>
+    </div>
+
+    <p>If you've tried some of the stuff here, please
+      <a href="feedback.html">tell us what you think</a>, so we can improve these
+      materials for the future.</p>
+
+    <p>Especially if some things have been weird, incomplete, confusing or otherwise
+      less than ideal we'd like to know that.</p>
+  </body>
+</html>
