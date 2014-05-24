@@ -1,5 +1,7 @@
 ---
+title: Coding Adventures
 updated: 2014-05-20
+layout: section
 ---
 
 # Coding Adventures
