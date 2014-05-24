@@ -15,6 +15,12 @@
       pre, pre > code { background-color: rgba(249, 249, 249, 1); }
 
       code { background-color: #f3f3f3; }
+
+      #next {
+        border-top: 1px solid #ddd;
+        padding-top: 1em;
+        text-align: center;
+      }
     </style>
   </head>
 
@@ -22,9 +28,7 @@
     {{ page.content | markdownify }}
 
     {% if page.next %}
-    <hr />
-
-    <a href="{{ page.next }}">Next tutorial</a>
+    <p id="next">Continue with the <a href="{{ page.next }}">next tutorial</a>.</p>
     {% endif %}
 
     <footer id="footer">
