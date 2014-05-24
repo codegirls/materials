@@ -27,9 +27,13 @@
   <body>
     {{ page.content | markdownify }}
 
+    <p id="next">
     {% if page.next %}
-    <p id="next">Continue with the <a href="{{ page.next }}">next tutorial</a>.</p>
+      Continue with the <a href="{{ page.next }}">next tutorial</a>.
+    {% else %}
+      View <a href="../">all tutorials</a>.
     {% endif %}
+    </p>
 
     <footer id="footer">
       <p>© 2014 <a href="http://codegirls.de">CodeGirls</a>
