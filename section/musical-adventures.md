@@ -1,3 +1,8 @@
+---
+title: Musical Adventures
+layout: section
+---
+
 # musical adventures
 
 if you dare to, you can make music. things might be quite a bit rough,
