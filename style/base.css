@@ -1,0 +1,15 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: "Merriweather";
+    font-size: 12pt;
+}
+
+h1 {
+    font-size: 250%;
+    text-align: center;
+}
+
+@media (max-width: 568px) {
+    body { margin: 0.5em 1em; }
+}

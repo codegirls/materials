@@ -1,9 +1,11 @@
 ---
+title: More pixling
+next: pixl-2.html
 updated: 2014-01-28
-next: pixl-2.md
+layout: section
 ---
 
-# hello, JavaScript!
+# More pixling
 
 today we're going to write some JavaScript. we will continue using
 [pixl](http://pixl.papill0n.org), but instead of clicking around to

@@ -1,5 +1,7 @@
 ---
+title: Still pixling (vectors & randomness)
 updated: 2014-02-11
+layout: section
 ---
 
 # more JavaScript!

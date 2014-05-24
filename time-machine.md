@@ -1,5 +1,7 @@
 ---
+title: Time Machine
 updated: 2014-03-25
+layout: section
 ---
 
 # JavaScript in small steps.

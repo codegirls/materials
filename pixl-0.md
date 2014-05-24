@@ -1,6 +1,8 @@
 ---
+title: Let's pixl!
+next: pixl-1.html
 updated: 2013-12-17
-next: pixl-1.md
+layout: section
 ---
 
 # christmas special, let's pixl!
