@@ -4,7 +4,7 @@ updated: 2014-02-11
 layout: section
 ---
 
-# more JavaScript!
+# Still pixling (vectors, shapes & randomness)
 
 actually, more fancy things using JavaScript.
 

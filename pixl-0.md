@@ -5,7 +5,7 @@ updated: 2013-12-17
 layout: section
 ---
 
-# christmas special, let's pixl!
+# Let's pixl!
 
 today, we're going to draw little pixels together.
 
