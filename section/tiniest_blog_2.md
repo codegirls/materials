@@ -30,7 +30,7 @@ For a start, why don't you spice things up with some __images__?
 Sometimes it is useful to list things. For example all the cute cate memes you collected at your journey through the web.
 Your friends will love your __list__ with cute kittys!
 
-    ```
+```
     <p>Cute Kitty</p>
    
     <ul>
@@ -47,6 +47,7 @@ Your friends will love your __list__ with cute kittys!
         <li>Zwei</li>
         <li>Drei</li>
     </ol>
+```
 
 ## Tables
 
