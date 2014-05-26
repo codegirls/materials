@@ -131,7 +131,13 @@ And another one:
 
 This is a cool new trick - and it's an easy one as well. And although this may seem simple to you, you can build *choose-your-adventure* stories just with this. And of course you use links between the pages of almost every website.
     
-    
+## Interesting links you might like
+
+German:
+* [SelfHTML] (http://wiki.selfhtml.org/wiki/Startseite)
+
+English:
+* [Twine] (http://twinery.org/)
     
     
     
