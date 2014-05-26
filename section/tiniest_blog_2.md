@@ -8,6 +8,7 @@ layout: section
 # More HTML
 
 Just plain text can get a bit boring. But HTML can do so much more ...
+For a start, why don't you spice things up with some __images__?
 
 ## Images
 
@@ -27,6 +28,7 @@ Just plain text can get a bit boring. But HTML can do so much more ...
 ## Lists
 
 Sometimes it is useful to list things. For example all the cute cate memes you collected at your journey through the web.
+Your friends will love the __list__ with cute kittys!
 
 ```
     <p>Cute Kitty</p>
@@ -45,7 +47,41 @@ Sometimes it is useful to list things. For example all the cute cate memes you c
         <li>Zwei</li>
         <li>Drei</li>
     </ol>
-```   
+
+## Tables
+
+And sometimes you need to be *really* organized. This is case for __tables__!
+
+```
+<table>
+    <thead>
+    <tr>
+        <td>Name</td>
+        <td>Alter</td>
+        <td>Beschreibung</td>
+    </tr>
+    </thead>
+</table>
+
+<tbody>
+    <tr>
+        <td>Awesome Code Monkey</td>
+        <td>12</td>
+        <td>Loves code adventures on the web - bananas!</td>
+    </tr>
+    <tr>
+        <td>Cute Kitten Cookie</td>
+        <td>Cookie does not talk about age</td>
+        <td>Loves sweet milk and cookies, bows and little bells </td>
+    </tr>
+</tbody>
+</table>
+```
+
+# Videos
+
+
+    
     
     
     
