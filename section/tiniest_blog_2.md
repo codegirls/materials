@@ -100,6 +100,9 @@ And sometimes you need to be *really* organized. This is a case for __tables__!
     - Tip: The code changes depending on which size and border color for your video you choose
 
 ## Audio
+
+* Similar to videos. Just give it a try!
+* [Here] (https://soundcloud.com/mio_myo/sternwarte-observatory-ep-01) is a link you can use
     
     
     
