@@ -70,7 +70,25 @@ First attempt: Only text
 
 Something is still missing ...
 
+### HTML (HyperText Markup Language)
 
+* Consists of *elements* marked with so called *tags* so that your browser knows what to display
+* Example
+```
+<p>
+This is an paragraph.
+HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
+</p>
+
+```
+<p>
+You can cheat a little by using the `br` element. For example like this
+<br />
+This is not considered as good style, i.e. most times you'll just use various paragraphs
+</p>
+
+[(Beispiel anschauen)] (examples/02-paragraphs.html)
+* 
 
 
 
