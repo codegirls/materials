@@ -99,7 +99,34 @@ Keep all that in mind, experiment a little and, voila, your very first website! 
 
 ### CSS (Cascading Style Sheets)
 
+* For a start, just copy the following HTML at the beginning of your file:
+```
+<style>
+body {
+    margin: 0 auto; /* centers the text */
+    max-width: 800px; /* defines the maximum width of your text */
+}
+</style>
 
+* Examples:
+  - `color` (font color)
+  - `background-color` (Background color)
+  - `font-size` (font size) and `font-family` (style of lettering)
+    + A huge selection of Fonts are available at [Google Fonts] (http://google.com/fonts). Recommendable ones [here] (http://www.smashingmagazine.com/2014/03/12/taking-a-second-look-at-free-fonts/)
+* structure: *selector* and corresponding *rules*
+ - i.e. CSS rules always concern certain HTML elements
+ - example
+```
+    body {
+        color: red;
+}
+    a {
+      color: green;
+}
 
+Text inbetween the `body`elements is displayed as red while the link text is displayed as green
+* It's best to approach CSS with a *learning by doing* approach and experiment live. That's why your browser has _Developer Tools_  (`Ctrl-Shift-I`)
+
+ 
 
 
