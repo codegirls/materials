@@ -47,7 +47,7 @@ Your friends will love your __list__ with cute kittys!
         <li>Zwei</li>
         <li>Drei</li>
     </ol>
-    ```
+
 ## Tables
 
 And sometimes you need to be *really* organized. This is a case for __tables__!
