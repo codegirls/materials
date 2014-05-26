@@ -42,3 +42,35 @@ This tutorial will explain to you what this magical web is everybody is talking 
 ```
 [(Beispiel anschauen)] (../examples/01-structure.html)
 * Are most times located on a server. You can also develop and save locally, but then nobody else can see your website.
+
+### client / Server
+
+* Browsers are clients (as well as screen readers, search engines and other programs)
+* A server provides websites. This means the server receives requests for certain addresses (URLs) and answers them with source code.
+* Clients then proceed to follow cross references (links) in these documents and embed various media (CSS styles, JavaScript code, images, videos or music)
+
+### Standards (HTML, CSS and JavaScript)
+
+* The source code of websites is written in a language called HTML
+* Defined by a consortium
+* Browser converts the definition
+* HTML describes content and structure of websites
+* CSS describes appereance. Put in other words: HTML is the body you can applicate your Make-up (CSS) on.
+* The programming language used to realize dynamic behavior is calle JavaScript. Most websites use a form of JavaScript
+
+
+## Your first website
+
+First attempt: Only text
+
+* own or [generated] (http://loripsum.net/api/5/plaintext) text
+* Create a file called `webseite.html` and copy your text there.
+  - We need a text editor for this (text ≠ document)
+* Watch in your browser [(Beispiel)] (examples/00-justtext.html)
+
+Something is still missing ...
+
+
+
+
+
