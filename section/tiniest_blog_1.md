@@ -130,6 +130,10 @@ body {
 Text inbetween the `body`elements is displayed as red while the link text is displayed as green
 * It's best to approach CSS with a *learning by doing* approach and experiment live. That's why your browser has _Developer Tools_  (`Ctrl-Shift-I`)
 
- 
+## What's next?
+
+Ok, so now we have a rough idea about the structure of websites. But what about images, videos and really cool and fancy looking websites?
+
+
 
 
