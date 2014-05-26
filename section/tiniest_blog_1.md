@@ -40,7 +40,6 @@ This tutorial will explain to you what this magical web is everybody is talking 
   </body>
 </html>
 ```
-[(Beispiel anschauen)] (../examples/01-structure.html)
 * Are most times located on a server. You can also develop and save locally, but then nobody else can see your website.
 
 ### client / Server
@@ -66,7 +65,7 @@ First attempt: Only text
 * own or [generated] (http://loripsum.net/api/5/plaintext) text
 * Create a file called `webseite.html` and copy your text there.
   - We need a text editor for this (text ≠ document)
-* Watch in your browser [(Beispiel)] (examples/00-justtext.html)
+* Watch in your browser 
 
 Something is still missing ...
 
@@ -87,8 +86,20 @@ You can cheat a little by using the `br` element. For example like this
 This is not considered as good style, i.e. most times you'll just use various paragraphs
 </p>
 
-[(Beispiel anschauen)] (examples/02-paragraphs.html)
-* 
+* As you can see, tags have a start and an end. Inbetween the tags is normal text
+  - start: `<p>` (opening tag)
+  - end: `</p>` (closing tag)
+* Other tags:
+  - `h1`, `h2`, `h3`, `h4`, `h5` and `h6`: Headlines
+  - `em`: emphasis, mostly displayed as cursive
+  - `strong`: stronger emphasis, mostly displayed as bold
+* Try it!
+
+Keep all that in mind, experiment a little and, voila, your very first website! But, wait a minute, can't we make it a bit prettier? Right now, it does not look anything like these fancy blog designs we find all other the web. The answer to this problem is CSS:
+
+### CSS (Cascading Style Sheets)
+
+
 
 
 
