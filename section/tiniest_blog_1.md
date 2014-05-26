@@ -107,6 +107,7 @@ body {
     max-width: 800px; /* defines the maximum width of your text */
 }
 </style>
+```
 
 * Examples:
   - `color` (font color)
@@ -124,6 +125,7 @@ body {
     a {
       color: green;
 }
+```
 
 Text inbetween the `body`elements is displayed as red while the link text is displayed as green
 * It's best to approach CSS with a *learning by doing* approach and experiment live. That's why your browser has _Developer Tools_  (`Ctrl-Shift-I`)
