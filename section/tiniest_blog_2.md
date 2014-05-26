@@ -103,6 +103,13 @@ And sometimes you need to be *really* organized. This is a case for __tables__!
 
 * Similar to videos. Just give it a try!
 * [Here] (https://soundcloud.com/mio_myo/sternwarte-observatory-ep-01) is a link you can use
+
+## Many more elements
+
+* Now we had the chance to meet the most common elements
+* There are many more out there, though. It's impossible to remember them all, so we found a handy [overview] (http://www.w3.org/TR/html-markup/elements.html)
+ 
+
     
     
     
