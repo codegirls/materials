@@ -116,6 +116,7 @@ body {
 * structure: *selector* and corresponding *rules*
  - i.e. CSS rules always concern certain HTML elements
  - example
+
 ```
     body {
         color: red;
