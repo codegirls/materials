@@ -24,3 +24,9 @@ Out tutorial will continue with the following points:
 And of course, as always, we are open for specific requests from you!
 
 ## CSS Basics
+* Website elements are arranged in rectangles, so called *boxes*
+* important attributes:
+ - `position`
+ - `margin`, `padding`
+ - `width`, `max-widht`
+ - `border`
