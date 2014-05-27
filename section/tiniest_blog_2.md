@@ -137,7 +137,10 @@ German:
 * [SelfHTML] (http://wiki.selfhtml.org/wiki/Startseite)
 
 English:
-* [Twine] (http://twinery.org/)
+* [Twine] (http://twinery.org/), interactive non-linear storytelling. An advanced demonstration about how to use links to tell stories
+* [HTML and CSS at codeacademy] (http://www.codecademy.com/tracks/web). The classic of do-it-yourself learning
+* [Overview about HTML elements] (http://www.w3.org/TR/html-markup/elements.html)
+*  More explanations and examples has this [overview] (https://developer.mozilla.org/en/docs/Web/HTML/Element)
     
     
     
