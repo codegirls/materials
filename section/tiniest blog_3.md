@@ -99,10 +99,18 @@ English:
   - [Webflow] (https://webflow.com/), online editor for websites
   - [Macaw] (http://macaw.co/), also an online design programm for websites. You can find a free version [here] (http://download.macaw.co/)
 
-## Inspiration
+## Style Inspiration
   
-  
-  
-  
+* [A List Apart] (http://alistapart.com/)
+* [clairelegrand.tumblr.com] (http://clairelegrand.tumblr.com/post/77700679900/the-importance-of-the-unlikable-heroine)
+* [Danielle Sucher] (http://www.daniellesucher.com/)
+* [Die Eskapistin] (http://thatgirlthere.wordpress.com/)
+* [Hacker School] (https://www.hackerschool.com/)
+* [incisive.nu] (http://incisive.nu/)
+* [jacobian.org] (http://jacobian.org/writing/)
+* [Holstee Manifesto] (http://www.holstee.com/pages/manifesto)
+* [tomayko.com] (http://tomayko.com/writings/adopt-an-open-source-process-constraints)
+* [Wizard for Mac] (http://www.wizardmac.com/)
+* [Dash] (http://kapeli.com/dash)
   
   
