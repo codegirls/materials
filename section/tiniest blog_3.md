@@ -60,7 +60,7 @@ And of course, as always, we are open for specific requests from you!
 ## Grids
 
 * Placing elements next to each other is a little complicated.
-* That is why use use so called *grids* . They are being use
+* That is why use use so called *grids* .
 * You can download a CSS grid [here] (http://cobyism.com/gridism/)
 
     ```
@@ -75,3 +75,25 @@ And of course, as always, we are open for specific requests from you!
     ```
     
   This will lool like [this] (http://heylu.github.io/web101/examples/09-grid.html)
+  
+## Links that might interest you
+
+German: 
+* [SelfHTML] (http://wiki.selfhtml.org/wiki/Startseite)
+
+English:
+* [Learn CSS Layout] (http://learnlayout.com/) explains the basics in coherent constitutive steps
+* [A Beginner's Guide to HTML & CSS] (http://learn.shayhowe.com/html-css/)
+* [A Advanced Guide to HTML & CSS] (http://learn.shayhowe.com/html-css/)
+* [HTML & CSS course at codeacademy] (http://www.codecademy.com/tracks/web)
+* [Overview CSS properties] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [CSS Diners  -  Where we feast on CSS Selektors] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), game that helps to enhace an better understanding of CSS selektors
+
+
+  
+  
+  
+  
+  
+  
+  
