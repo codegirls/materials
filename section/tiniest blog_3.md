@@ -1,6 +1,6 @@
 ---
-title: Tiniest Blog More CSS
-next: pixl-2.html
+title: tiniest blog_3.md
+next: tiniest blog_4.md
 updated: 2014-05-27
 layout: section
 ---
@@ -50,6 +50,8 @@ And of course, as always, we are open for specific requests from you!
 
 * fixed bar on the top of your page
 * As an alternative you can fix your navigation bar a bit more downwards for a more "tumblry" style, e.g. after an image.
+
+##Ready-made Styles
 
 
 
