@@ -89,8 +89,17 @@ English:
 * [Overview CSS properties] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 * [CSS Diners  -  Where we feast on CSS Selektors] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), game that helps to enhace an better understanding of CSS selektors
 
+## Tools
 
-  
+* [Gridism] (http://cobyism.com/gridism/), simple grid Framework
+* [Bootstrap] (http://getbootstrap.com/), popular and very extensive CSS framework
+* [Can I Use] (http://caniuse.com/), compatibility tables for support of newer HTML and CSS
+* [Font Awesome] (http://fortawesome.github.io/Font-Awesome/icons/), many icons for website design
+* available for charge:
+  - [Webflow] (https://webflow.com/), online editor for websites
+  - [Macaw] (http://macaw.co/), also an online design programm for websites. You can find a free version [here] (http://download.macaw.co/)
+
+## Inspiration
   
   
   
