@@ -1,6 +1,6 @@
 ---
-title: tiniest_blog_1.md
-next: tiniest_blog_2.md
+title: tiniest_blog_1.html
+next: tiniest_blog_2.html
 updated: 2014-05-26
 layout: section
 ---
