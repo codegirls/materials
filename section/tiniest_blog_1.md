@@ -118,14 +118,14 @@ body {
  - i.e. CSS rules always concern certain HTML elements
  - example
 
-    ```
+        ```
     body {
         color: red;
 }
     a {
       color: green;
 }
-    ```
+        ```
 
 Text inbetween the `body`elements is displayed as red while the link text is displayed as green
 * It's best to approach CSS with a *learning by doing* approach and experiment live. That's why your browser has _Developer Tools_  (`Ctrl-Shift-I`)
