@@ -53,7 +53,8 @@ And of course, as always, we are open for specific requests from you!
 
 ##Ready-made Styles
 
-
-
+* Blogs [like here] (http://heylu.github.io/web101/examples/pretty-blog.html)
+* Tumblr style [like here] (http://heylu.github.io/web101/examples/tumblry.html)
+* Big Post [like here] (http://heylu.github.io/web101/examples/article.html)
 
 
