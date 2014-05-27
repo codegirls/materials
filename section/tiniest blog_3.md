@@ -1,6 +1,6 @@
 ---
-title: tiniest blog_3.md
-next: tiniest blog_4.md
+title: tiniest blog_3.html
+next: tiniest blog_4.html
 updated: 2014-05-27
 layout: section
 ---
@@ -57,4 +57,9 @@ And of course, as always, we are open for specific requests from you!
 * Tumblr style [like here] (http://heylu.github.io/web101/examples/tumblry.html)
 * Big Post [like here] (http://heylu.github.io/web101/examples/article.html)
 
+## Grids
+
+* Placing elements next to each other is a little complicated.
+* That is why use use so called *grids* . They are being use
+* 
 
