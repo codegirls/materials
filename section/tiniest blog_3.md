@@ -29,7 +29,7 @@ And of course, as always, we are open for specific requests from you!
 * important attributes:
  - `position`
  - `margin`, `padding`
- - `width`, `max-widht`
+ - `width`, `max-width`
  - `border`
 
 
