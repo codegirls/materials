@@ -46,7 +46,10 @@ And of course, as always, we are open for specific requests from you!
   - Sketch your draft really helps
   - Experiment live with size, color, font-size etc
 
+## Navigation between pages
 
+* fixed bar on the top of your page
+* As an alternative you can fix your navigation bar a bit more downwards for a more "tumblry" style, e.g. after an image.
 
 
 
