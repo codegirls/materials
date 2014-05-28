@@ -53,64 +53,66 @@ And of course, as always, we are open for specific requests from you!
 
 ##Ready-made Styles
 
-* Blogs [like here] (http://heylu.github.io/web101/examples/pretty-blog.html)
-* Tumblr style [like here] (http://heylu.github.io/web101/examples/tumblry.html)
-* Big Post [like here] (http://heylu.github.io/web101/examples/article.html)
+* Blogs [like here](http://heylu.github.io/web101/examples/pretty-blog.html)
+* Tumblr style [like here](http://heylu.github.io/web101/examples/tumblry.html)
+* Big Post [like here](http://heylu.github.io/web101/examples/article.html)
 
 ## Grids
 
 * Placing elements next to each other is a little complicated.
 * That is why use use so called *grids* .
-* You can download a CSS grid [here] (http://cobyism.com/gridism/)
+* You can download a CSS grid [here](http://cobyism.com/gridism/)
 
     ```
-    <div class="grid">
-      <div class="unit whole red"><pre>groß</pre></div>    
-    </div>
+      <div class="grid">
+        <div class="unit whole red"><pre>groß</pre></div>    
+     </div>
     
-    <div class="grid">
-      <div class="unit half green"><pre>halb</pre></div>
-      <div class="unit half orange"><pre>und halb</pre></div>
-    </div>
+      <div class="grid">
+        <div class="unit half green"><pre>halb</pre></div>
+        <div class="unit half orange"><pre>und halb</pre></div>
+      </div>
     ```
     
-  This will lool like [this] (http://heylu.github.io/web101/examples/09-grid.html)
+This will look like [this](http://heylu.github.io/web101/examples/09-grid.html)
   
 ## Links that might interest you
 
 German: 
-* [SelfHTML] (http://wiki.selfhtml.org/wiki/Startseite)
+
+* [SelfHTML](http://wiki.selfhtml.org/wiki/Startseite)
 
 English:
-* [Learn CSS Layout] (http://learnlayout.com/) explains the basics in coherent constitutive steps
-* [A Beginner's Guide to HTML & CSS] (http://learn.shayhowe.com/html-css/)
-* [A Advanced Guide to HTML & CSS] (http://learn.shayhowe.com/html-css/)
-* [HTML & CSS course at codeacademy] (http://www.codecademy.com/tracks/web)
-* [Overview CSS properties] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [CSS Diners  -  Where we feast on CSS Selektors] (https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), game that helps to enhace an better understanding of CSS selektors
+
+* [Learn CSS Layout](http://learnlayout.com/) explains the basics in coherent constitutive steps
+* [A Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [A Advanced Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
+* [HTML & CSS course at codeacademy](http://www.codecademy.com/tracks/web)
+* [Overview CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [CSS Diners  -  Where we feast on CSS Selektors](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), game that helps to enhace an better understanding of CSS selektors
 
 ## Tools
 
-* [Gridism] (http://cobyism.com/gridism/), simple grid Framework
-* [Bootstrap] (http://getbootstrap.com/), popular and very extensive CSS framework
-* [Can I Use] (http://caniuse.com/), compatibility tables for support of newer HTML and CSS
-* [Font Awesome] (http://fortawesome.github.io/Font-Awesome/icons/), many icons for website design
+* [Gridism](http://cobyism.com/gridism/), simple grid Framework
+* [Bootstrap](http://getbootstrap.com/), popular and very extensive CSS framework
+* [Can I Use](http://caniuse.com/), compatibility tables for support of newer HTML and CSS
+* [Font Awesome](http://fortawesome.github.io/Font-Awesome/icons/), many icons for website design
 * available for charge:
-  - [Webflow] (https://webflow.com/), online editor for websites
-  - [Macaw] (http://macaw.co/), also an online design programm for websites. You can find a free version [here] (http://download.macaw.co/)
+  - [Webflow](https://webflow.com/), online editor for websites
+  - [Macaw](http://macaw.co/), also an online design programm for websites. You can find a free version [here](http://download.macaw.co/)
 
 ## Style Inspiration
   
-* [A List Apart] (http://alistapart.com/)
-* [clairelegrand.tumblr.com] (http://clairelegrand.tumblr.com/post/77700679900/the-importance-of-the-unlikable-heroine)
-* [Danielle Sucher] (http://www.daniellesucher.com/)
-* [Die Eskapistin] (http://thatgirlthere.wordpress.com/)
-* [Hacker School] (https://www.hackerschool.com/)
-* [incisive.nu] (http://incisive.nu/)
-* [jacobian.org] (http://jacobian.org/writing/)
-* [Holstee Manifesto] (http://www.holstee.com/pages/manifesto)
-* [tomayko.com] (http://tomayko.com/writings/adopt-an-open-source-process-constraints)
-* [Wizard for Mac] (http://www.wizardmac.com/)
-* [Dash] (http://kapeli.com/dash)
+* [A List Apart](http://alistapart.com/)
+* [clairelegrand.tumblr.com](http://clairelegrand.tumblr.com/post/77700679900/the-importance-of-the-unlikable-heroine)
+* [Danielle Sucher](http://www.daniellesucher.com/)
+* [Die Eskapistin](http://thatgirlthere.wordpress.com/)
+* [Hacker School](https://www.hackerschool.com/)
+* [incisive.nu](http://incisive.nu/)
+* [jacobian.org](http://jacobian.org/writing/)
+* [Holstee Manifesto](http://www.holstee.com/pages/manifesto)
+* [tomayko.com](http://tomayko.com/writings/adopt-an-open-source-process-constraints)
+* [Wizard for Mac](http://www.wizardmac.com/)
+* [Dash](http://kapeli.com/dash)
   
   
