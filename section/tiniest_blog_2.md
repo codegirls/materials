@@ -132,9 +132,11 @@ This is a cool new trick - and it's an easy one as well. And although this may s
 ## Interesting links you might like
 
 German:
+
 * [SelfHTML](http://wiki.selfhtml.org/wiki/Startseite)
 
 English:
+
 * [Twine](http://twinery.org/), interactive non-linear storytelling. An advanced demonstration about how to use links to tell stories
 * [HTML and CSS at codeacademy](http://www.codecademy.com/tracks/web). The classic of do-it-yourself learning
 * [Overview about HTML elements](http://www.w3.org/TR/html-markup/elements.html)
