@@ -25,7 +25,8 @@ This tutorial will explain to you what this magical web is everybody is talking 
 * Actually just text (HTML-code)
 
     ```
-<!doctype html>
+
+<!DOCTYPE html>
 <html>
   <head>
     <title>Hallo, Web!</title>
@@ -63,7 +64,7 @@ This tutorial will explain to you what this magical web is everybody is talking 
 
 First attempt: Only text
 
-* own or [generated] (http://loripsum.net/api/5/plaintext) text
+* own or [generated](http://loripsum.net/api/5/plaintext) text
 * Create a file called `webseite.html` and copy your text there.
   - We need a text editor for this (text ≠ document)
 * Watch in your browser 
@@ -80,9 +81,8 @@ Something is still missing ...
 This is an paragraph.
 HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
 </p>
-
 <p>
-You can cheat a little by using the `br` element. For example like this
+You can cheat a little by using the "br" element. For example like this
 <br />
 This is not considered as good style, i.e. most times you'll just use various paragraphs
 </p>
@@ -116,7 +116,7 @@ body {
   - `color` (font color)
   - `background-color` (Background color)
   - `font-size` (font size) and `font-family` (style of lettering)
-    + A huge selection of Fonts are available at [Google Fonts] (http://google.com/fonts). Recommendable ones [here] (http://www.smashingmagazine.com/2014/03/12/taking-a-second-look-at-free-fonts/)
+    + A huge selection of Fonts are available at [Google Fonts](http://google.com/fonts). Recommendable ones [here](http://www.smashingmagazine.com/2014/03/12/taking-a-second-look-at-free-fonts/)
 * structure: *selector* and corresponding *rules*
  - i.e. CSS rules always concern certain HTML elements
  - example
