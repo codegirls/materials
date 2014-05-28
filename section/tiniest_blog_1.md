@@ -28,7 +28,7 @@ This tutorial will explain to you what this magical web is everybody is talking 
         <!DOCTYPE html>
         <html>
         <head>
-        <title>Hallo, Web!</title>
+            <title>Hallo, Web!</title>
         <meta charset="utf-8" />
         </head>
   
@@ -76,16 +76,16 @@ Something is still missing ...
 * Example
 
     ```
-    <p>
-    This is an paragraph.
-    HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
-    </p>
+        <p>
+        This is an paragraph.
+        HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
+        </p>
     
-    <p>
-    You can cheat a little by using the "br" element. For example like this
-    <br />
-    This is not considered as good style, i.e. most times you'll just use various paragraphs
-    </p>
+        <p>
+        You can cheat a little by using the "br" element. For example like this
+        <br />
+        This is not considered as good style, i.e. most times you'll just use various paragraphs
+        </p>
     ```
 
 * As you can see, tags have a start and an end. Inbetween the tags is normal text
