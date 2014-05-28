@@ -40,6 +40,7 @@ This tutorial will explain to you what this magical web is everybody is talking 
   </body>
 </html>
     ```
+    
 * Are most times located on a server. You can also develop and save locally, but then nobody else can see your website.
 
 ### client / Server
@@ -73,18 +74,19 @@ Something is still missing ...
 
 * Consists of *elements* marked with so called *tags* so that your browser knows what to display
 * Example
+
     ```
 <p>
 This is an paragraph.
 HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
 </p>
 
-    ```
 <p>
 You can cheat a little by using the `br` element. For example like this
 <br />
 This is not considered as good style, i.e. most times you'll just use various paragraphs
 </p>
+    ```
 
 * As you can see, tags have a start and an end. Inbetween the tags is normal text
   - start: `<p>` (opening tag)
@@ -100,6 +102,7 @@ Keep all that in mind, experiment a little and, voila, your very first website! 
 ### CSS (Cascading Style Sheets)
 
 * For a start, just copy the following HTML at the beginning of your file:
+
     ```
 <style>
 body {
