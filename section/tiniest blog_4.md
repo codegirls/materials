@@ -30,4 +30,10 @@ layout: section
 * financed with advertisements (at least it seems to be discret with that)
 * Has a lot of functions, some say: Too much
 
+## Tumblr
+
+* Focus on minimal *micro* blogs
+* Accepts own HTML & CSS for templates. You don't have to build a new one from scratch. Instead you can choose an existing one and [adapt it] (http://www.tumblr.com/docs/en/custom_themes).
+* Can also be used for static pages. However not for single posts.
+
 
