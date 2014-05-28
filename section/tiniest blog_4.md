@@ -18,4 +18,16 @@ layout: section
 * Upload your files
 * Go to `http://nutzername.neocities.org/webseite.hmtl` -  look, it's your website!
 * Send the link to your friends
-* To update your neocities website, use the built-in editor oder upload the updatete file 
+* To update your neocities website, use the built-in editor oder upload the updated file 
+
+## WordPress.com
+
+* Focus on blogs but the CMS is flexible and also suitable for hosting other sorts of websites
+* based on the [WordPress] (http://wordpress.org/) Software, which you can install on your own server
+* You don't need HTML / CSS know-how
+* Lots of [ready-made templates] (http://wordpress.org/themes/)
+* Certain creative restrictions: Does not accept own HTML or CSS in the free version
+* financed with advertisements (at least it seems to be discret with that)
+* Has a lot of functions, some say: Too much
+
+
