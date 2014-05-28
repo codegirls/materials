@@ -25,21 +25,20 @@ This tutorial will explain to you what this magical web is everybody is talking 
 * Actually just text (HTML-code)
 
     ```
-
-<!DOCTYPE html>
-<html>
-  <head>
+    <!DOCTYPE html>
+    <html>
+    <head>
     <title>Hallo, Web!</title>
     <meta charset="utf-8" />
-  </head>
+        </head>
   
-  <body>
-    <h1>Hallo, Web!</h1>
-    <p>Webseiten bestehen eigentlich bloß aus Text wie diesem hier</p>
-    <p>Man kann sich diesen Text auch von jeder Website anschauen</p>
-    <p>Und das wichtigste: Links sehen <a href="../introduction.html"> so aus!</a></p>
-  </body>
-</html>
+        <body>
+            <h1>Hallo, Web!</h1>
+                <p>Webseiten bestehen eigentlich bloß aus Text wie diesem hier</p>
+                <p>Man kann sich diesen Text auch von jeder Website anschauen</p>
+                <p>Und das wichtigste: Links sehen <a href="../introduction.html"> so aus!</a></p>
+        </body>
+    </html>
     ```
     
 * Are most times located on a server. You can also develop and save locally, but then nobody else can see your website.
@@ -77,15 +76,16 @@ Something is still missing ...
 * Example
 
     ```
-<p>
-This is an paragraph.
-HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
-</p>
-<p>
-You can cheat a little by using the "br" element. For example like this
-<br />
-This is not considered as good style, i.e. most times you'll just use various paragraphs
-</p>
+    <p>
+    This is an paragraph.
+    HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
+    </p>
+    
+    <p>
+    You can cheat a little by using the "br" element. For example like this
+    <br />
+    This is not considered as good style, i.e. most times you'll just use various paragraphs
+    </p>
     ```
 
 * As you can see, tags have a start and an end. Inbetween the tags is normal text
@@ -104,12 +104,12 @@ Keep all that in mind, experiment a little and, voila, your very first website! 
 * For a start, just copy the following HTML at the beginning of your file:
 
     ```
-<style>
-body {
-    margin: 0 auto; /* centers the text */
-    max-width: 800px; /* defines the maximum width of your text */
-}
-</style>
+        <style>
+            body {
+            margin: 0 auto; /* centers the text */
+            max-width: 800px; /* defines the maximum width of your text */
+            }
+        </style>
     ```
 
 * Examples:
@@ -122,12 +122,12 @@ body {
  - example
 
         ```
-    body {
-        color: red;
-}
-    a {
-      color: green;
-}
+         body {
+            color: red;
+            }
+         a {
+            color: green;
+            }
         ```
 
 Text inbetween the `body`elements is displayed as red while the link text is displayed as green
