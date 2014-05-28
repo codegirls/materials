@@ -25,11 +25,11 @@ This tutorial will explain to you what this magical web is everybody is talking 
 * Actually just text (HTML-code)
 
     ```
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <title>Hallo, Web!</title>
-    <meta charset="utf-8" />
+        <!DOCTYPE html>
+        <html>
+        <head>
+        <title>Hallo, Web!</title>
+        <meta charset="utf-8" />
         </head>
   
         <body>
@@ -38,7 +38,7 @@ This tutorial will explain to you what this magical web is everybody is talking 
                 <p>Man kann sich diesen Text auch von jeder Website anschauen</p>
                 <p>Und das wichtigste: Links sehen <a href="../introduction.html"> so aus!</a></p>
         </body>
-    </html>
+        </html>
     ```
     
 * Are most times located on a server. You can also develop and save locally, but then nobody else can see your website.
