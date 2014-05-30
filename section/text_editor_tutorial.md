@@ -20,7 +20,7 @@ Structure:
 
 Let's start with a simple question: What is a file? Let's brainstorm for a minute!
 * Name different files 
-  - Tip: To get you started, here are 3 file types: mp3, jpg, html ....
+  - Tip: To get you started, here are 3 file formats: mp3, jpg, html ....
 * For which purposes do we use files?
 * What do have all files in common?
 * Can you think of typical file attributes?
@@ -28,7 +28,7 @@ Let's start with a simple question: What is a file? Let's brainstorm for a minut
 #### Great! Let's recap:
 
 * Files are a collection of data that belongs together.
-* We need a program to open our file, e.g. a videoplayer, an editor or an image proccessing software. Which program we use depends on the file type. Sometimes we already recognize files on their ending: .doc, .mp3, .html
+* We need a program to open our file, e.g. a videoplayer, an editor or an image proccessing software. Which program we use depends on the file format. Sometimes we already recognize files on their ending: .doc, .mp3, .html
 * Files exist beyond the run-time of a program
 
 
