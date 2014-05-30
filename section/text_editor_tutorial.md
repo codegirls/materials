@@ -5,7 +5,7 @@ layout: section
 ---
 # A file is a file is a text: Introduction to working with text editors
 
-To write cool and awesome code, you need tools. The most important tool is your text editor. A good text editor actually can take a lot of work off your hands. And best of all, it can help you reduce all these annoying errors in your code. So get ready for a whole lot of "texting"!
+To write cool and awesome code, you need **tools**. The most important tool is your **text editor**. A good text editor actually can take a lot of work off your hands. And best of all, it can help you reduce all these annoying errors in your code. So get ready for a whole lot of "texting"!
 
 Structure: 
 
@@ -18,9 +18,9 @@ Structure:
 
 ## What is a file? 
 
-Let's start with a simple question: What is a file? Let's brainstorm for a minute!
+#### Let's start with a simple question: What is a file? Let's brainstorm for a minute!
 * Name different files 
-  - Tip: To get you started, here are 3 file formats: mp3, jpg, html ....
+  - Tip: To get you started, here are 3 file formats: _mp3_, _jpg_, _html_ ....
 * For which purposes do we use files?
 * What do have all files in common?
 * Can you think of typical file attributes?
@@ -35,7 +35,7 @@ Let's start with a simple question: What is a file? Let's brainstorm for a minut
 
 When you work with your text editor , there is gonna be a lot of text - obviously. But not all text you write in your .html file will be displayed as text.
 
-For example
+**For example**
 
 ```
 <div class="notplaintext" style="width="120px; top: 312px;"">
@@ -46,7 +46,7 @@ For example
 ```
 
 Most the words above are not text but code. We can't just "read" it. Instead we need a program to decipher it's meaning. And the code itself is not the information it just contains information.
-The same does not apply for plain text. 
+The same does not apply for **plain text**. 
 
 ```
 You can read this directly without decoding or translating it with a program. The test transfers the information directly to you. That's why we call it plain text
