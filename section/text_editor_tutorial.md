@@ -29,6 +29,6 @@ Let's start with a simple question: What is a file? Let's brainstorm for a minut
 
 * Files are a collection of data that belongs together.
 * We need a program to open our file, e.g. a videoplayer, an editor or an image proccessing software. Which program we use depends on the file format. Sometimes we already recognize files on their ending: .doc, .mp3, .html
-* Files exist beyond the run-time of a program
+* Files exist beyond the run-time of a program. They save content for repeated use. 
 
 
