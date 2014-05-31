@@ -12,11 +12,9 @@ This tutorial will explain to you what this magical web is everybody is talking 
 
 This tutorial will teach you how websites work and how you can start building your own.
 
-## What is "The Web"?
+## What is a website?
 
-### Websites
-
-* Have an address (URL)
+* Has an address (URL)
 * Your browser downloads a website and displays it
 * Actually just text (HTML-code)
 
@@ -37,15 +35,15 @@ This tutorial will teach you how websites work and how you can start building yo
         </html>
     ```
     
-* Are most times located on a server. You can also develop and save locally, but then nobody else can see your website.
+* Is most times located on a server. You can also develop and save locally, but then nobody else can see your website.
 
-### client / Server
+## Client / Server
 
 * Browsers are clients (as well as screen readers, search engines and other programs)
 * A server provides websites. This means the server receives requests for certain addresses (URLs) and answers them with source code.
 * Clients then proceed to follow cross references (links) in these documents and embed various media (CSS styles, JavaScript code, images, videos or music)
 
-### Standards (HTML, CSS and JavaScript)
+## Standards (HTML, CSS and JavaScript)
 
 * The source code of websites is written in a language called HTML
 * Defined by a consortium
@@ -54,8 +52,7 @@ This tutorial will teach you how websites work and how you can start building yo
 * CSS describes appereance. Put in other words: HTML is the body you can applicate your Make-up (CSS) on.
 * The programming language used to realize dynamic behavior is calle JavaScript. Most websites use a form of JavaScript
 
-
-## Your first website
+# Your first website
 
 First attempt: Only text
 
@@ -66,7 +63,7 @@ First attempt: Only text
 
 Something is still missing ...
 
-### HTML (HyperText Markup Language)
+## HTML (HyperText Markup Language)
 
 * Consists of *elements* marked with so called *tags* so that your browser knows what to display
 * Example
@@ -95,7 +92,7 @@ Something is still missing ...
 
 Keep all that in mind, experiment a little and, voila, your very first website! But, wait a minute, can't we make it a bit prettier? Right now, it does not look anything like these fancy blog designs we find all other the web. The answer to this problem is CSS:
 
-### CSS (Cascading Style Sheets)
+## CSS (Cascading Style Sheets)
 
 * For a start, just copy the following HTML at the beginning of your file:
 
