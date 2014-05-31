@@ -4,6 +4,7 @@ next: tiniest_blog_2.html
 updated: 2014-05-26
 layout: section
 ---
+
 # The Tiniest Blog
 
 If you always thought __programming__ and __coding__ sounds kind of cool and wanna try it yourself, you came to the right adress.
