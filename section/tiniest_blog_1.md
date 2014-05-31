@@ -10,12 +10,7 @@ layout: section
 If you always thought __programming__ and __coding__ sounds kind of cool and wanna try it yourself, you came to the right adress.
 This tutorial will explain to you what this magical web is everybody is talking about. Furthermore you'll learn a lot of really cool stuff and be even able to build your own blog at the end. Just wait and see, you'll be a little code monkey in no time!
 
-## Goals
-* Basic principles of creating and building Websites
-* Understanding the basic principles of the web
-* Creating a complete website
-* Knowing where and how to learn more about the things you are interested in
-* Possibilites and boundaries 
+This tutorial will teach you how websites work and how you can start building your own.
 
 ## What is "The Web"?
 
