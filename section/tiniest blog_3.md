@@ -1,11 +1,11 @@
 ---
-title: tiniest blog_3.html
-next: tiniest blog_4.html
+title: A little bit of CSS
+next: tiniest_blog_4.html
 updated: 2014-05-27
 layout: section
 ---
 
-# More CSS
+# A little bit of CSS
 
 Coding with just HTML can get boring. That's why we'll need to know a thing or two about CSS. CSS makes everything shiny and pretty!
 

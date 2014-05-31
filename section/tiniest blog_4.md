@@ -1,5 +1,5 @@
 ---
-title: tiniest blog_4.html
+title: Publish
 updated: 2014-05-27
 layout: section
 ---
