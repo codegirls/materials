@@ -1,6 +1,6 @@
 ---
 title: A little bit of CSS
-next: tiniest_blog_4.html
+next: tiniest-blog-4.html
 updated: 2014-05-27
 layout: section
 ---

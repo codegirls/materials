@@ -1,6 +1,6 @@
 ---
 title: More HTML
-next: tiniest_blog_3.html
+next: tiniest-blog-3.html
 updated: 2014-05-26
 layout: section
 ---
