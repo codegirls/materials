@@ -24,7 +24,6 @@ This tutorial will explain to you what this magical web is everybody is talking 
 * Your browser downloads a website and displays it
 * Actually just text (HTML-code)
 
-    ```
         <!DOCTYPE html>
         <html>
         <head>
@@ -39,7 +38,6 @@ This tutorial will explain to you what this magical web is everybody is talking 
                 <p>Und das wichtigste: Links sehen <a href="../introduction.html"> so aus!</a></p>
         </body>
         </html>
-    ```
     
 * Are most times located on a server. You can also develop and save locally, but then nobody else can see your website.
 
