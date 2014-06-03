@@ -53,6 +53,42 @@ The same does not apply for **plain text**.
 
 Code is a way of transfering data in a certain format. Text, on the other hand, does not need a special format. 
 
+### Something to do for you!
+
+Let's find out, if our new found knowledge about **files** and **data** stuck. Check out the text snippets below. Can you tell which ones are plain text and which one are code? Bonus points if you find out which code!
+
+#### Number 1
+
+    <div class="item">
+      <div id="about_2009" class="gap_down clearfix">
+        <div class="span4 alpha">
+            <img src="img/about_tday2009.jpg" alt="T-Shirt Day 2009" />
+        </div>
+        <div class="span8 omega">
+          <h4 class="gap_top_zero">Example Numer One</h4>
+            <p>This is just an example how text can look like. And isn't the text written here, plain and pure? You can                 read it, right? Or are my words just a trick and this is an example of code? </p>
+        </div>
+      </div>
+    </div>
+    
+#### Number 2
+
+    <style type="text/css">
+      #fade {
+        display:none;
+        position:fixed;
+        top:0%;
+        left:0%;
+        width:100%;
+        height: 100%;
+        background-color:#000;
+        z-index:1001;
+        -moz-opacity:0.7;
+        opacity:70;
+        filter:alpha(opacity=70);
+      }
+    </style>
+
 ## Let's start!
 
 Don't get confused with all the different text editors out there. Especially in the beginning it is not so much important which editor you use but more that you learn to code with one. Basically you can program with any text editor, be it the simpe __Notepad__, __Text Wrangler__, the developer favorite __Sublime Text__ or some licenced version like __Web Storm__. For now, we are going to work with __Sublime__. You can download it [here](http://www.sublimetext.com/2).
