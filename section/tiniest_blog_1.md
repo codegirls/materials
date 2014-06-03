@@ -72,8 +72,6 @@ Something is still missing ...
 
 * Consists of *elements* marked with so called *tags* so that your browser knows what to display
 * Example
-
-    ```
         <p>
         This is an paragraph.
         HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
@@ -82,9 +80,9 @@ Something is still missing ...
         <p>
         You can cheat a little by using the "br" element. For example like this
         <br />
-        This is not considered as good style, i.e. most times you'll just use various paragraphs
+        This is not considered as good style, i.e. most times you'll just use various paragraph
         </p>
-    ```
+
 
 * As you can see, tags have a start and an end. Inbetween the tags is normal text
   - start: `<p>` (opening tag)
@@ -101,14 +99,12 @@ Keep all that in mind, experiment a little and, voila, your very first website! 
 
 * For a start, just copy the following HTML at the beginning of your file:
 
-    ```
         <style>
             body {
             margin: 0 auto; /* centers the text */
             max-width: 800px; /* defines the maximum width of your text */
             }
         </style>
-    ```
 
 * Examples:
   - `color` (font color)
@@ -119,14 +115,12 @@ Keep all that in mind, experiment a little and, voila, your very first website! 
  - i.e. CSS rules always concern certain HTML elements
  - example
 
-        ```
-         body {
+            body {
             color: red;
             }
          a {
             color: green;
             }
-        ```
 
 Text inbetween the `body`elements is displayed as red while the link text is displayed as green
 * It's best to approach CSS with a *learning by doing* approach and experiment live. That's why your browser has _Developer Tools_  (`Ctrl-Shift-I`)
