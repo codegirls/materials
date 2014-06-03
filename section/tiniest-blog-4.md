@@ -1,5 +1,5 @@
 ---
-title: tiniest blog_4.html
+title: Publish
 updated: 2014-05-27
 layout: section
 ---
@@ -40,7 +40,8 @@ layout: section
 
 So, now we have learned a great deal about HTML and CSS: What the code acutally does, how to write it and finally where to host our creations. There is one thing we haven't talked about so far: Communication. The use of HTML & CSS enables you to publish but not to communicate with your readers. What do we do to change that?
 
-#### Out there in the endless depths of the web exist a lot of different alternatives:
+## Out there in the endless depths of the web exist a lot of different alternatives:
+
 * [Disqus](http://disqus.com/), a forum. It works well, but advertisment display is possible
 * [Muut](https://muut.com/), forum
 * [Google Forms](https://accounts.google.com/ServiceLogin?service=wise&passive=1209600&continue=https%3A%2F%2Fdocs.google.com%2Fforms%2Fcreate&followup=https%3A%2F%2Fdocs.google.com%2Fforms%2Fcreate&ltmpl=forms), forms e.g for surveys. Can also be used for non-public inquiries.
