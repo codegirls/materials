@@ -6,13 +6,9 @@ layout: section
 
 # Time Machine
 
-*TODO: explain better/explicitely why it is a time machine
-(person in, future person out), tasks: reverse time machine,
-fancy time machine that walks back and forward*
-
-- moving on from "hello, javascript"
-- making a time machine
-- functions, objects
+Ok, now that you about [numbers, variables and simple functions][hj], let's
+make a time machine out of that and a bit more. You'll learn about *objects*,
+functions with *return values* and a few other things along the way.
 
 ## Objects
 
@@ -111,7 +107,7 @@ Ok, this might be a little bit difficult to understand. So change some
 things to see if you understand what happens.
 
 Other things can happen if you get older, for example, you could get
-smarter, less naive or happier. it's up to you, change the time machine
+smarter, less naive or happier. It's up to you, change the time machine
 to do something slightly different.
 
 ## Loops
@@ -152,6 +148,12 @@ and even "add" them. try doing that on your own, for example:
         return newPerson;
     }
 
+## Why is this a time machine?
+
+Simply put, because you put a person in and get a future person back out.
+And it turns out that is a perfect example for a function, which in most
+cases take some data as input and give back some data as output.
+
 ## Something to think about
 
 It will really help you if you try this at home. Even if you don't find a
@@ -159,7 +161,14 @@ solution, you'll come with questions next time.
 
 * repeat some of the things above. just do them again, maybe try something
     a little bit different.
-
+* extending the time machine:
+    - write your own time machine that ages differently or maybe handles
+        specific ages different
+    - write a reverse time machine
+    - write a time machine that can walk backwards an forwards
+* representing things
+    - try encoding something as an object, for example a person with an age,
+        favourite food and whether they like giraffes
 
 And come back with questions!
 
