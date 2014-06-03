@@ -14,10 +14,8 @@ For a start, why don't you spice things up with some __images__?
 
 * Images are marked with the `img` element
 
-    ```
-    <h1>Eine Katze!</h1>
-    <img src="http://placekitten.com/400/400?image=9" />
-    ```
+        <h1>Eine Katze!</h1>
+        <img src="http://placekitten.com/400/400?image=9" />
 
 *  HTML is a little bit more complicated because of:
   - self-closing elements  `<... />`
@@ -28,7 +26,6 @@ For a start, why don't you spice things up with some __images__?
 Sometimes it is useful to list things. For example all the cute cate memes you collected at your journey through the web.
 Your friends will love your __list__ with cute kittys!
 
-```
     <p>Cute Kitty</p>
    
     <ul>
@@ -45,37 +42,36 @@ Your friends will love your __list__ with cute kittys!
         <li>Zwei</li>
         <li>Drei</li>
     </ol>
-```
+
 
 ## Tables
 
 And sometimes you need to be *really* organized. This is a case for __tables__!
 
-```
-<table>
-    <thead>
-    <tr>
-        <td>Name</td>
-        <td>Alter</td>
-        <td>Beschreibung</td>
-    </tr>
-    </thead>
-</table>
 
-<tbody>
-    <tr>
-        <td>Awesome Code Monkey</td>
-        <td>12</td>
-        <td>Loves code adventures on the web - bananas!</td>
-    </tr>
-    <tr>
-        <td>Cute Kitten Cookie</td>
-        <td>Cookie does not talk about age</td>
-        <td>Loves sweet milk and cookies, bows and little bells </td>
-    </tr>
-</tbody>
-</table>
-```
+    <table>
+        <thead>
+            <tr>
+                <td>Name</td>
+                <td>Alter</td>
+                <td>Beschreibung</td>
+            </tr>
+        </thead>
+
+        <tbody>
+            <tr>
+                <td>Awesome Code Monkey</td>
+                <td>12</td>
+                <td>Loves code adventures on the web - bananas!</td>
+            </tr>
+            <tr>
+                <td>Cute Kitten Cookie</td>
+                <td>Cookie does not talk about age</td>
+                <td>Loves sweet milk and cookies, bows and little bells </td>
+            </tr>
+        </tbody>
+    </table>
+
 
 ## Videos
 
@@ -88,12 +84,12 @@ And sometimes you need to be *really* organized. This is a case for __tables__!
     - *How to get the code?*
       Go to the page with the video, e.g. [here](https://www.youtube.com/watch?v=QncgmzH6yQU), click "Share", then             "Embed" and copy the stated code to your own website
 
-        ```
-        <iframe width="560" height="315"
-            src="//www.youtube.com/embed/QncgmzH6yQU"
-            frameborder="0" allowfullscreen>
-        </iframe>
-        ```
+  
+            <iframe width="560" height="315"
+                src="//www.youtube.com/embed/QncgmzH6yQU"
+                frameborder="0" allowfullscreen>
+            </iframe>
+  
     
     - Tip: The code changes depending on which size and border color for your video you choose
 
@@ -112,20 +108,17 @@ And sometimes you need to be *really* organized. This is a case for __tables__!
 * So far we dealt just with links to *other* websites
 * Different pages of one website need links *among themselves*
 
-    One page:
+ One page:
 
-    ```
-        <!-- 08-links1.html -->
-        <p>Link to <a href="08-links2.html">another page</a>.</p>
-        <p>Or do you wanna <a"../more-html.html">go back to our tutorial</<>?</p>
-    ```
+    <!-- 08-links1.html -->
+    <p>Link to <a href="08-links2.html">another page</a>.</p>
+    <p>Or do you wanna <a"../more-html.html">go back to our tutorial</<>?</p>
 
-    And another one:
+ And another one:
 
-    ```
-        <!-- 08-links2.html -->
-        <p>Und wieder <a href="08-links1.html">zurück</a>.</p>
-    ```
+    <!-- 08-links2.html -->
+    <p>Und wieder <a href="08-links1.html">zurück</a>.</p>
+  
 
 This is a cool new trick - and it's an easy one as well. And although this may seem simple to you, you can build *choose-your-adventure* stories just with this. And of course you use links between the pages of almost every website.
     
