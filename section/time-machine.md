@@ -6,9 +6,10 @@ layout: section
 
 # Time Machine
 
-Ok, now that you about [numbers, variables and simple functions][hj], let's
-make a time machine out of that and a bit more. You'll learn about *objects*,
-functions with *return values* and a few other things along the way.
+Ok, now that you know about [numbers, variables and simple functions](hello-javascript.html),
+let's make a time machine out of that and a bit more. You'll learn about
+*objects*, functions with *return values* and a few other things along
+the way.
 
 ## Objects
 
