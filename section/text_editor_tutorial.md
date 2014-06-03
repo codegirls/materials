@@ -74,7 +74,7 @@ Let's find out, if our new found knowledge about **files** and **data** stuck. C
 #### Number 2
 
     <style type="text/css">
-      #fade {
+      .text {
         display:none;
         position:fixed;
         top:0%;
@@ -88,6 +88,27 @@ Let's find out, if our new found knowledge about **files** and **data** stuck. C
         filter:alpha(opacity=70);
       }
     </style>
+    
+### Number 3
+
+    Uh, a lot of letters for a change that make actual sense when you read it. 
+    I've written this sentence and that's all what is to it.
+    No magic functions, no x oder z oder y and no cryptic code snippets. 
+    This makes so much fun, I'll go on write another sencentece
+    And another.
+    I seem to be on a roll, because I really can't stop writing all these words down.
+    
+    
+### Number 4 
+
+    <script type="text/javascript">
+    <!--
+    // show page switch bullets
+    var numerofslides = $("#carousel div.slide").size();
+      if (numerofslides > 1) {
+	      $("#pages").show();
+    }
+
 
 ## Let's start!
 
