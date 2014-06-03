@@ -229,5 +229,11 @@ Ok, one more:
 
 ## Resources
 
-* the ones from [previous sessions](2014-01-28-hello-javascript.md#phew)
+* [Codecademy: JavaScript Track](http://www.codecademy.com/tracks/javascript),
+    where you complete small interactive excercises and learn
+    JavaScript along the way.
+* [Eloquent JavaScript](http://eloquentjavascript.net/contents.html), a comprehensive
+    book about JavaScript with lots of executable examples.
 * an [interactive introduction to JavaScript](http://gitbookio.github.io/javascript/)
+* or just continue playing and search for something when you don't
+    know something. (that's how most programmers start learning.)
