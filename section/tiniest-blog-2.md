@@ -19,7 +19,7 @@ For a start, why don't you spice things up with some __images__?
 
 *  HTML is a little bit more complicated because of:
   - self-closing elements  `<... />`
-  - attributes `src=".."`
+  - attributes `src="..."`
 
 ## Lists
 
@@ -80,16 +80,15 @@ And sometimes you need to be *really* organized. This is a case for __tables__!
 * That's why we use *embed* codes
     - YouTube & Co. provide you with a HTML code you can use for your website to embed the video
     - *How to get the code?*
-      Go to the page with the video, e.g. [here](https://www.youtube.com/watch?v=QncgmzH6yQU), click "Share", then             "Embed" and copy the stated code to your own website
-
+    
+        Go to the page with the video, e.g. [here](https://www.youtube.com/watch?v=QncgmzH6yQU), click "Share", then "Embed" and copy the given code to your own website.
   
             <iframe width="560" height="315"
                 src="//www.youtube.com/embed/QncgmzH6yQU"
                 frameborder="0" allowfullscreen>
             </iframe>
   
-    
-    - Tip: The code changes depending on which size and border color for your video you choose
+    - Tip: The code changes depending on which size and border color for your video you choose.
 
 ## Audio
 
@@ -99,7 +98,7 @@ And sometimes you need to be *really* organized. This is a case for __tables__!
 ## Many more elements
 
 * Now we had the chance to meet the most common elements
-* There are many more out there, though. It's impossible to remember them all, so we found a handy [overview](http://www.w3.org/TR/html-markup/elements.html)
+* There are many more out there, though. It's impossible to remember them all, so we found a handy [overview](http://www.w3.org/TR/html-markup/elements.html).
  
 ## Several Pages
 
@@ -108,16 +107,18 @@ And sometimes you need to be *really* organized. This is a case for __tables__!
 
 One page:
 
-    <!-- 08-links1.html -->
-    <p>Link to <a href="08-links2.html">another page</a>.</p>
-    <p>Or do you wanna <a"../more-html.html">go back to our tutorial</<>?</p>
+    <!-- links1.html -->
+    <p>Link to <a href="links2.html">another page</a>.</p>
+    <p>Or do you wanna
+        <a href="http://lmgtfy.com/?q=cute kittens">go somewhere else</a>?
+    </p>
 
 And another one:
 
     <!-- 08-links2.html -->
     <p>Und wieder <a href="08-links1.html">zurück</a>.</p>
 
-This is a cool new trick - and it's an easy one as well. And although this may seem simple to you, you can build *choose-your-adventure* stories just with this. And of course you use links between the pages of almost every website.
+This is a cool new trick - and it's an easy one as well. And although this may seem simple to you, you can build *choose-your-own-adventure* stories just with this. And of course you can use links between the pages of almost every website.
     
 ## Interesting links you might like
 

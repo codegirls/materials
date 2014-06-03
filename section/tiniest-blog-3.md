@@ -36,22 +36,22 @@ And of course, as always, we are open for specific requests from you!
 ## How do you transfer your design ideas to CSS?
 
 * Elements can be 
- - fixed, e.g. at the top of your navigation menu
- - adjusted to a grid
- - neither scroll upwards or downwards, i.e. stay 
+    - fixed, e.g. at the top of the page as a navigation menu
+    - adjusted to a grid
+    - neither scroll upwards or downwards, i.e. stay 
 * Pick one example, either one we suggested or choose your own and start experimenting!
 * Tips
-  - Working with sample or inspirational websites makes the process much easier. Rememeber: Nobody likes copycats, so       always refer to the original author
-  - It's not a shame to look at cool tricks other people did on their websites
-  - Sketch your draft really helps
-  - Experiment live with size, color, font-size etc
+    - Working with sample or inspirational websites makes the process much easier. Rememeber: Nobody likes copycats, so always refer to the original author
+    - It's not a shame to look at cool tricks other people did on their websites
+    - Sketching your draft really helps
+    - Experiment live with size, color, font-size etc
 
 ## Navigation between pages
 
 * fixed bar on the top of your page
 * As an alternative you can fix your navigation bar a bit more downwards for a more "tumblry" style, e.g. after an image.
 
-##Ready-made Styles
+## Ready-made Styles
 
 * Blogs [like here](http://heylu.github.io/web101/examples/pretty-blog.html)
 * Tumblr style [like here](http://heylu.github.io/web101/examples/tumblry.html)

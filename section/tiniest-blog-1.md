@@ -22,18 +22,21 @@ This tutorial will teach you how websites work and how you can start building yo
         <html>
         <head>
             <title>Hallo, Web!</title>
-        <meta charset="utf-8" />
+            <meta charset="utf-8" />
         </head>
   
         <body>
             <h1>Hallo, Web!</h1>
-                <p>Webseiten bestehen eigentlich bloß aus Text wie diesem hier</p>
-                <p>Man kann sich diesen Text auch von jeder Website anschauen</p>
-                <p>Und das wichtigste: Links sehen <a href="../introduction.html"> so aus!</a></p>
+            
+            <p>Webseiten bestehen eigentlich bloß aus Text wie diesem hier</p>
+            <p>Man kann sich diesen Text auch von jeder Website anschauen</p>
+            <p>Und das wichtigste: Links sehen
+                <a href="../introduction.html"> so aus!</a>
+            </p>
         </body>
         </html>
     
-* Is most times located on a server. You can also develop and save locally, but then nobody else can see your website.
+* Is most times located on a server. You can also develop and save locally, but others only see your website when you upload it to a server.
 
 ## Client / Server
 
@@ -45,10 +48,10 @@ This tutorial will teach you how websites work and how you can start building yo
 
 * The source code of websites is written in a language called HTML
 * Defined by a consortium
-* Browser converts the definition
+* Browser converts the code into what you actually see
 * HTML describes content and structure of websites
-* CSS describes appereance. Put in other words: HTML is the body you can applicate your Make-up (CSS) on.
-* The programming language used to realize dynamic behavior is calle JavaScript. Most websites use a form of JavaScript
+* CSS describes appearance. Put in other words: HTML is the body you can apply your make-up (CSS) on.
+* The programming language used to realize dynamic behavior is called JavaScript. Most websites use at least some JavaScript somewhere.
 
 # Your first website
 
@@ -65,19 +68,23 @@ Something is still missing ...
 
 * Consists of *elements* marked with so called *tags* so that your browser knows what to display
 * Example
+
         <p>
-        This is an paragraph.
-        HTML ignores paragraphs, so if you want to have paragraphs you have to create new paragraphs
+            This is a paragraph.
+            HTML ignores newlines, so if you want to have paragraphs
+            you have to create a new paragraph elment.
         </p>
     
         <p>
-        You can cheat a little by using the "br" element. For example like this
-        <br />
-        This is not considered as good style, i.e. most times you'll just use various paragraph
+            You can cheat a little by using the "br" element. For example
+            like this.
+            <br />
+            This is not considered as good style, i.e. most times you'll just
+            use various paragraphs.
         </p>
 
 
-* As you can see, tags have a start and an end. Inbetween the tags is normal text
+* As you can see, tags have a start and an end. In between the tags is normal text.
   - start: `<p>` (opening tag)
   - end: `</p>` (closing tag)
 * Other tags:
@@ -94,7 +101,7 @@ Keep all that in mind, experiment a little and, voila, your very first website! 
 
         <style>
         body {
-            margin: 0 auto; /* centers the text */
+            margin: 0 auto;   /* centers the text */
             max-width: 800px; /* defines the maximum width of your text */
         }
         </style>
@@ -105,19 +112,20 @@ Keep all that in mind, experiment a little and, voila, your very first website! 
   - `font-size` (font size) and `font-family` (style of lettering)
     + A huge selection of Fonts are available at [Google Fonts](http://google.com/fonts). Recommendable ones [here](http://www.smashingmagazine.com/2014/03/12/taking-a-second-look-at-free-fonts/)
 * structure: *selector* and corresponding *rules*
- - i.e. CSS rules always concern certain HTML elements
- - example
+    - i.e. CSS rules always concern certain HTML elements
+    - example
 
-        body {
-            color: red;
-        }
-        
-        a {
-            color: green;
-        }
+            body {
+                color: red;
+            }
+            
+            a {
+                color: green;
+            }
 
-Text inbetween the `body`elements is displayed as red while the link text is displayed as green
-* It's best to approach CSS with a *learning by doing* approach and experiment live. That's why your browser has _Developer Tools_  (`Ctrl-Shift-I`)
+Text inbetween the `body`elements is displayed as red while the link text is displayed as green.
+
+It's best to approach CSS with a *learning by doing* approach and experiment live. That's why your browser has _Developer Tools_  (`Ctrl-Shift-I`),
 
 ## What's next?
 
