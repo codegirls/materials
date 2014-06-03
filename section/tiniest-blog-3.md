@@ -64,12 +64,12 @@ And of course, as always, we are open for specific requests from you!
 * You can download a CSS grid [here](http://cobyism.com/gridism/)
 
         <div class="grid">
-          <div class="unit whole red"><pre>groß</pre></div>    
+            <div class="unit whole red"><pre>groß</pre></div>
         </div>
     
         <div class="grid">
-          <div class="unit half green"><pre>halb</pre></div>
-          <div class="unit half orange"><pre>und halb</pre></div>
+            <div class="unit half green"><pre>halb</pre></div>
+            <div class="unit half orange"><pre>und halb</pre></div>
         </div>
     
 This will look like [this](http://heylu.github.io/web101/examples/09-grid.html)

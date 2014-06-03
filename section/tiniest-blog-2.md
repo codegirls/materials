@@ -43,11 +43,9 @@ Your friends will love your __list__ with cute kittys!
         <li>Drei</li>
     </ol>
 
-
 ## Tables
 
 And sometimes you need to be *really* organized. This is a case for __tables__!
-
 
     <table>
         <thead>
@@ -108,17 +106,16 @@ And sometimes you need to be *really* organized. This is a case for __tables__!
 * So far we dealt just with links to *other* websites
 * Different pages of one website need links *among themselves*
 
- One page:
+One page:
 
     <!-- 08-links1.html -->
     <p>Link to <a href="08-links2.html">another page</a>.</p>
     <p>Or do you wanna <a"../more-html.html">go back to our tutorial</<>?</p>
 
- And another one:
+And another one:
 
     <!-- 08-links2.html -->
     <p>Und wieder <a href="08-links1.html">zurück</a>.</p>
-  
 
 This is a cool new trick - and it's an easy one as well. And although this may seem simple to you, you can build *choose-your-adventure* stories just with this. And of course you use links between the pages of almost every website.
     
