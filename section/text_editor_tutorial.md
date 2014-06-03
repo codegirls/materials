@@ -37,21 +37,20 @@ When you work with your text editor , there is gonna be a lot of text - obviousl
 
 **For example**
 
-```
-<div class="notplaintext" style="width="120px; top: 312px;"">
-  <h1>Das ist Text</h1>
-    <a><img src="/img/nottext.jpg" /></a>
-      <p>The words written here are the only text I'll be able to see later.</p>
-</div>
-```
+    <div class="notplaintext" style="width="120px; top: 312px;"">
+      <h1>Das ist Text</h1>
+        <a><img src="/img/nottext.jpg" />
+          <p>The words written here are the only text I'll be able to see later.</p>
+        </a>
+    </div>
 
 Most the words above are not text but code. We can't just "read" it. Instead we need a program to decipher it's meaning. And the code itself is not the information it just contains information.
 The same does not apply for **plain text**. 
 
-```
-You can read this directly without decoding or translating it with a program. 
-The test transfers the information directly to you. That's why we call it plain text
-```
+
+    You can read this directly without decoding or translating it with a program. 
+    The test transfers the information directly to you. That's why we call it plain text
+
 Code is a way of transfering data in a certain format. Text, on the other hand, does not need a special format. 
 
 ## Let's start!
