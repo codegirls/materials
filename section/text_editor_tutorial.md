@@ -55,7 +55,9 @@ Code is a way of transfering data in a certain format. Text, on the other hand, 
 
 ### Something to do for you!
 
-Let's find out, if our new found knowledge about **files** and **data** stuck. Check out the text snippets below. Can you tell which ones are plain text and which one are code? Bonus points if you find out which code!
+Let's find out, if our new found knowledge about **files** and **data** stuck. Check out the text snippets below. Can you tell which parts will be displayed as code and which as text? 
+Which example is plain text? Can you tell the person sitting next to you why?
+Bonus points if you find out which code!
 
 #### Number 1
 
