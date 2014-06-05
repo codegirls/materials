@@ -55,11 +55,7 @@ Code is a way of transfering data in a certain format. Text, on the other hand, 
 
 ### Something to do for you!
 
-Let's find out, if our new found knowledge about **files** and **data** stuck. Check out the text snippets below. Can you tell which parts will be displayed as code and which as text? 
-Which example is **plain** text? Can you tell the person sitting next to you why?
-Bonus points if you find the programming language each example is written in!
-
-( _Hint: It helps if you start looking at the first line of the code_)
+Let's find out, if our new found knowledge about **files** and **data** stuck. Check out the text snippets below. Can you tell which ones are plain text and which one are code? Bonus points if you find out which code!
 
 #### Number 1
 
@@ -114,10 +110,40 @@ Bonus points if you find the programming language each example is written in!
     }
 
 
-## Let's start!
+# Let's start!
 
 Don't get confused with all the different text editors out there. Especially in the beginning it is not so much important which editor you use but more that you learn to code with one. Basically you can program with any text editor, be it the simpe __Notepad__, __Text Wrangler__, the developer favorite __Sublime Text__ or some licenced version like __Web Storm__. For now, we are going to work with __Sublime__. You can download it [here](http://www.sublimetext.com/2).
 
-### The Basics
+## The Basics
  
- 
+* Open your text editor
+* Either you can open some of your self written code in the editor or you copy the code below
+   <style type="text/css">
+.header_img {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h1 , h3 {
+    text-align: center;
+    font-size: 45px;
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 45px;
+    border: 195px solid  #FF1493;
+    padding: 40px;
+}
+h3 {
+    font-size: 30px;
+    font-style: italic;
+}
+</style>
+<div id="daria_fanpage">
+<div class="header_img">
+    <img src="http://s3-ec.buzzfed.com/static/enhanced/webdr03/2013/2/13/12/enhanced-buzz-17388-1360775485-20.jpg" title="You'll never know unless you try" />
+</div>
+<h1>This a Fanpage for the most badass girl ever</h1>
+    <h3>(After you, of course)</h3>
+</div>
