@@ -118,13 +118,14 @@ Don't get confused with all the different text editors out there. Especially in 
  
 * Open your text editor
 * Either you can open some of your self written code in the editor or you copy the code below
+
         <style type="text/css">
         .header_img {
           text-align: center;
 	  margin-top: 20px;
 	  margin-bottom: 20px;
 	}
-	h1 , h3 {
+        h1 , h3 {
     	  text-align: center;
     	  font-size: 45px;
     	  font-family: Helvetica, sans-serif;
