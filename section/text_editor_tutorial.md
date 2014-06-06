@@ -138,7 +138,7 @@ Don't get confused with all the different text editors out there. Especially in 
         h3 {
                 font-size: 30px;
                 font-style: italic;
-	}
+        }
         </style>
         
         <div id="daria_fanpage">
