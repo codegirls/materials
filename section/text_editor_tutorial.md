@@ -118,32 +118,31 @@ Don't get confused with all the different text editors out there. Especially in 
  
 * Open your text editor
 * Either you can open some of your self written code in the editor or you copy the code below
-   <style type="text/css">
-.header_img {
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
-h1 , h3 {
-    text-align: center;
-    font-size: 45px;
-    font-family: Helvetica, sans-serif;
-}
-
-h1 {
-    font-size: 45px;
-    border: 195px solid  #FF1493;
-    padding: 40px;
-}
-h3 {
-    font-size: 30px;
-    font-style: italic;
-}
-</style>
-<div id="daria_fanpage">
-<div class="header_img">
-    <img src="http://s3-ec.buzzfed.com/static/enhanced/webdr03/2013/2/13/12/enhanced-buzz-17388-1360775485-20.jpg" title="You'll never know unless you try" />
-</div>
-<h1>This a Fanpage for the most badass girl ever</h1>
-    <h3>(After you, of course)</h3>
-</div>
+        <style type="text/css">
+        .header_img {
+          text-align: center;
+	  margin-top: 20px;
+	  margin-bottom: 20px;
+	}
+	h1 , h3 {
+    	  text-align: center;
+    	  font-size: 45px;
+    	  font-family: Helvetica, sans-serif;
+	}
+	h1 {
+    	  font-size: 45px;
+    	  border: 195px solid  #FF1493;
+    	  padding: 40px;
+	}
+	h3 {
+    	  font-size: 30px;
+    	  font-style: italic;
+	}
+	</style>
+	<div id="daria_fanpage">
+	  <div class="header_img">
+    	    <img src="http://s3-ec.buzzfed.com/static/enhanced/webdr03/2013/2/13/12/enhanced-buzz-17388-1360775485-20.jpg" title="You'll never know unless you try" />
+	  </div>
+	  <h1>This a Fanpage for the most badass girl ever</h1>
+    	    <h3>(After you, of course)</h3>
+	</div>
