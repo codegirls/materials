@@ -124,26 +124,26 @@ Don't get confused with all the different text editors out there. Especially in 
         	text-align: center;
 	  	margin-top: 20px;
 		margin-bottom: 20px;
-	}
+        }
         h1 , h3 {
-    	  	text-align: center;
-    	  	font-size: 45px;
-    	  	font-family: Helvetica, sans-serif;
+                text-align: center;
+                font-size: 45px;
+                font-family: Helvetica, sans-serif;
+        }
+        h1 {
+                font-size: 45px;
+                border: 195px solid  #FF1493;
+                padding: 40px;
+        }
+        h3 {
+                font-size: 30px;
+                font-style: italic;
 	}
-	h1 {
-    	  	font-size: 45px;
-    	  	border: 195px solid  #FF1493;
-    	  	padding: 40px;
-	}
-	h3 {
-    	  	font-size: 30px;
-    	  	font-style: italic;
-	}
-	</style>
-	<div id="daria_fanpage">
-		<div class="header_img">
-    	 	<img src="../img/6246.jpg" />
-	  	</div>
-	  		<h1>This a Fanpage for the most badass girl ever</h1>
-    	    			<h3>(After you, of course)</h3>
-		</div>
+        </style>
+        <div id="daria_fanpage">
+            <div class="header_img">
+              <img src="../img/6246.jpg" />
+            </div>
+            <h1>This a Fanpage for the most badass girl ever</h1>
+              <h3>(After you, of course)</h3>
+        </div>
