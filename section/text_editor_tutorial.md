@@ -142,7 +142,7 @@ Don't get confused with all the different text editors out there. Especially in 
 	</style>
 	<div id="daria_fanpage">
 	  <div class="header_img">
-    	    <img src="http://s3-ec.buzzfed.com/static/enhanced/webdr03/2013/2/13/12/enhanced-buzz-17388-1360775485-20.jpg" title="You'll never know unless you try" />
+    	  <img src="http://s3-ec.buzzfed.com/static/enhanced/webdr03/2013/2/13/12/enhanced-buzz-17388-1360775485-2.jpg" />
 	  </div>
 	  <h1>This a Fanpage for the most badass girl ever</h1>
     	    <h3>(After you, of course)</h3>
