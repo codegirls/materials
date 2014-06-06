@@ -140,10 +140,11 @@ Don't get confused with all the different text editors out there. Especially in 
                 font-style: italic;
 	}
         </style>
+        
         <div id="daria_fanpage">
             <div class="header_img">
-              <img src="../img/6246.jpg" />
+                <img src="../img/6246.jpg" />
             </div>
-            <h1>This a Fanpage for the most badass girl ever</h1>
-              <h3>(After you, of course)</h3>
+              <h1>This a Fanpage for the most badass girl ever</h1>
+                <h3>(After you, of course)</h3>
         </div>
