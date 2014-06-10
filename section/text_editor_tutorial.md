@@ -150,10 +150,11 @@ Don't get confused with all the different text editors out there. Especially in 
         </div>
 
 * First thing you notice: Colors!
-This is called *syntax highlightling* and is one very cool (and useful) feature. Depending which language you are using, your editor highlights tags, elements and the different attributes. Syntax highlighting faciliates working with code: 
+This is called *syntax highlightling* and is one very cool (and useful) feature. Depending which language you are using, your editor highlights tags, elements and attributes in different colors and faciliates working with code: 
 	- Better Display of code structure
 	- Easy to spot errors or missing bits
 	- comments are "faded out"
 	- Highlighting does not affect the text - for human eyes only
 	- Improved code readability
 	- Brace matching 
+*Take a look at your code. Play around a bit: Remove a brace or an attribute. See if and what is changing. 
