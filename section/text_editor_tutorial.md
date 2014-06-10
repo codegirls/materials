@@ -157,4 +157,5 @@ This is called *syntax highlightling* and is one very cool (and useful) feature.
 	- Highlighting does not affect the text - for human eyes only
 	- Improved code readability
 	- Brace matching 
+
 *Take a look at your code. Play around a bit: Remove a brace or an attribute. See if and what is changing. 
