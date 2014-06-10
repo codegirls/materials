@@ -148,3 +148,12 @@ Don't get confused with all the different text editors out there. Especially in 
               <h1>This a Fanpage for the most badass girl ever</h1>
                 <h3>(After you, of course)</h3>
         </div>
+
+* First thing you notice: Colors!
+This is called *syntax highlightling* and is one very cool (and useful) feature. Depending which language you are using, your editor highlights tags, elements and the different attributes. Syntax highlighting faciliates working with code: 
+	- Better Display of code structure
+	- Easy to spot errors or missing bits
+	- comments are "faded out"
+	- Highlighting does not affect the text - for human eyes only
+	- Improved code readability
+	- Brace matching 
