@@ -1,5 +1,5 @@
 ---
-title: text_editor_tutorial.html
+title: text_editor_tutorial_1.html
 updated: 2014-05-27
 layout: section
 ---
