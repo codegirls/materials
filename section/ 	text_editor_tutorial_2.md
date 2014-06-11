@@ -53,7 +53,7 @@ This is called *syntax highlightling* and is one very cool (and useful) feature.
 	- Brace matching 
 
 * Take a look at your code. Play around a bit: Remove a brace or an attribute. See if and what is changing. 
-* **Now a little task for you:** Do you like the font of the text in the editor? It looks a bit oldschool, doesn't it? Try to change it into somehting a bit more modern!
+* **Now a little task for you:** Do you like the font of the text in the editor? It looks a bit oldschool, doesn't it? Try to change it into something a bit more modern!
 
 ### Something wrong?
 Yes, we tricked you a little bit -  but it was for a good cause. You found out that in a text editor, opposite to text processing programs like *Microsoft Word*, it isn't possible to change the font of the text. That is one of the most promiment characteristics of an editor.
