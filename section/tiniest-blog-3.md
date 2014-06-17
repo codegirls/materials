@@ -87,7 +87,7 @@ English:
 * [A Advanced Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)
 * [HTML & CSS course at codeacademy](http://www.codecademy.com/tracks/web)
 * [Overview CSS properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [CSS Diners  -  Where we feast on CSS Selektors](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), game that helps to enhace an better understanding of CSS selektors
+* [CSS Diners - Where we feast on CSS Selectors](http://flukeout.github.io/), game that helps to test your understanding of CSS selectors
 
 ## Tools
 
