@@ -58,3 +58,11 @@ This is called *syntax highlightling* and is one very cool (and useful) feature.
 ### Something wrong?
 Yes, we tricked you a little bit -  but it was for a good cause. You found out that in a text editor, opposite to text processing programs like *Microsoft Word*, it isn't possible to change the font of the text. That is one of the most promiment characteristics of an editor.
 
+## Now, let's go to work!
+
+* STRG-F
+* Word Wrap
+* Columns
+* Cltr + P ( Commando Palette)
+
+
