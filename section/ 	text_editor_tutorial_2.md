@@ -33,7 +33,7 @@ Don't get confused with all the different text editors out there. Especially in 
                 font-style: italic;
         }
         </style>
-        
+        <!-- This is the html part. While the CSS makes everything look pretty, the html gives our code the much neede structure -->
         <div id="daria_fanpage">
             <div class="header_img">
                 <img src="../img/6246.jpg" />
