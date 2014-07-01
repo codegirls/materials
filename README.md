@@ -53,6 +53,13 @@ or look at [the "old" materials][materials old].
   templating and/or css
 * more ruby
 * more challenging topics, e.g. something to solve alone/in teams
+* "projects":
+    - realizing an idea (ideally not one by us)
+    - weekly "thing to read" and to try out (blog, docs, screencast, ...)
+        * e.g. check out this library, this article on that css technique, ...
+    - help & feedback either alongside the regular meetings or online
+    - we really just provide the mentoring/help/happiness part, all
+        the awesomeness comes from people
 
 ## ideas for topics
 
