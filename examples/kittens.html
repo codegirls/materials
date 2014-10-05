@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Kitten's are awesome!</title>
+		<meta charset="utf-8" />
+		<style>
+			#kitten {
+				position: relative;
+				float: left;
+			}
+
+			#kitten p {
+				position: absolute;
+				bottom: 0px;
+				font-size: x-large;
+				text-align: center;
+				width: 100%;
+				background-color: rgba(255, 255, 255, 0.5);
+			}
+		</style>
+	</head>
+
+	<body>
+		<h1>Kitten's are awesome!</h1>
+
+		<p>But why don't they have names?</p>
+
+		<div id="kitten">
+		</div>
+
+		<script>
+			var names = ["kitty", "paw"];
+			var adjectives = ["adventurous", "fluffly", "grumpy", "wonderful", "awesome", "angry", "confused"];
+			var images = [];
+			for (var i = 1; i <= 16; i++) {
+				images.push("http://placekitten.com/400/400?image=" + i);
+			}
+
+			var kitten = document.getElementById("kitten");
+
+			var randomName = names[Math.floor(Math.random() * names.length)];
+			var randomAdjective = adjectives[Math.floor(Math.random() * adjectives.length)];
+			var randomImage = images[Math.floor(Math.random() * images.length)];
+
+			kitten.innerHTML = "<img src=\"" + randomImage + "\" />" +
+				"<p>" + randomAdjective + " " + randomName + "</p>";
+		</script>
+	</body>
+</html>
