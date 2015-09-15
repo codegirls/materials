@@ -16,7 +16,7 @@ layout: section
 
 * Go to <https://neocities.org> and create an account
 * Upload your files
-* Go to `http://nutzername.neocities.org/webseite.hmtl` - look, it's your website!
+* Go to `http://nutzername.neocities.org/webseite.html` - look, it's your website!
 * Send the link to your friends
 * To update your neocities website, use the built-in editor oder upload the updated file 
 

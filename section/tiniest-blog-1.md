@@ -7,7 +7,7 @@ layout: section
 
 # The Tiniest Blog
 
-If you always thought __programming__ and __coding__ sounds kind of cool and wanna try it yourself, you came to the right adress.
+If you always thought __programming__ and __coding__ sounds kind of cool and wanna try it yourself, you came to the right place.
 This tutorial will explain to you what this magical web is everybody is talking about. Furthermore you'll learn a lot of really cool stuff and be even able to build your own blog at the end. Just wait and see, you'll be a little code monkey in no time!
 
 This tutorial will teach you how websites work and how you can start building your own.
@@ -93,7 +93,7 @@ Something is still missing ...
   - `strong`: stronger emphasis, mostly displayed as bold
 * Try it!
 
-Keep all that in mind, experiment a little and, voila, your very first website! But, wait a minute, can't we make it a bit prettier? Right now, it does not look anything like these fancy blog designs we find all other the web. The answer to this problem is CSS:
+Keep all that in mind, experiment a little and, voila, your very first website! But, wait a minute, can't we make it a bit prettier? Right now, it does not look anything like these fancy blog designs we find all around the web. The answer to this problem is CSS:
 
 ## CSS (Cascading Style Sheets)
 
@@ -123,7 +123,7 @@ Keep all that in mind, experiment a little and, voila, your very first website! 
                 color: green;
             }
 
-Text inbetween the `body`elements is displayed as red while the link text is displayed as green.
+Text inbetween the `body` elements is displayed as red while the link text is displayed as green.
 
 It's best to approach CSS with a *learning by doing* approach and experiment live. That's why your browser has _Developer Tools_  (`Ctrl-Shift-I`),
 
