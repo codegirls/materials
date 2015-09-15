@@ -62,16 +62,14 @@ let's draw a horizontal line. in the console, type the following (use
 `shift-enter` to go to a new line without executing the code you typed
 so far. only type enter when you have typed all of it.)
 
-```
-function horizontal_line(start, length) {
-  var y = start.y;
-  for (var x = start.x; x < start.x + length; x += 1) {
-    pixl.draw_pixl({x: x, y: y});
-  }
-}
-
-horizontal_line({x: 0, y: 0} , 10);
-```
+	function horizontal_line(start, length) {
+	  var y = start.y;
+	  for (var x = start.x; x < start.x + length; x += 1) {
+	    pixl.draw_pixl({x: x, y: y});
+	  }
+	}
+	
+	horizontal_line({x: 0, y: 0} , 10);
 
 as you may have guessed, the code above draws a line. it first defined
 a *function* to do that and then *called* that function with two
@@ -91,17 +89,15 @@ calling the function works a bit like the following: first you assign the
 parameter values to the parameters to give them names and then you execute
 the *body* of the function:
 
-```
-// assign the parameters
-var start = {x: 0, y: 0};
-var length = 10;
-
-// execute the body of the function
-var y = start.y;
-for (var x = start.x; x < start.x + length; x += 1) {
-  pixl.draw_pixl({x: x, y: y});
-}
-```
+	// assign the parameters
+	var start = {x: 0, y: 0};
+	var length = 10;
+	
+	// execute the body of the function
+	var y = start.y;
+	for (var x = start.x; x < start.x + length; x += 1) {
+	  pixl.draw_pixl({x: x, y: y});
+	}
 
 now, what about that `for(var x = ...; x < ...; x += ...) { ... }` thing?
 that's a *for-loop*. it executes it's body (what's inside the curly braces)
@@ -112,9 +108,7 @@ you'll notice that the numbers in the bottom right of the pixl window change.
 those are the coordinates (x and y) of the mouse. so if you want to draw a pixl
 then you call `pixl.draw_pixl` and pass those coordinates to it:
 
-```
-pixl.draw_pixl({x: 0, y: 0});
-```
+	pixl.draw_pixl({x: 0, y: 0});
 
 to draw a horizontal line the `x` coordinate has to grow. we could do that
 by repeating the line above with different values for x, but that's no better
@@ -127,22 +121,18 @@ increment `x` until we drew enough pixls.
 
 to see what's going on, try executing the following:
 
-```
-for (var x = 0; x < 5; x += 1) {
-  console.log(x);
-}
-```
+	for (var x = 0; x < 5; x += 1) {
+	  console.log(x);
+	}
 
 if you try to repeat what the computer did, then it would probably look like
 this:
 
-```
-console.log(0);
-console.log(1);
-console.log(2);
-console.log(3);
-console.log(4);
-```
+	console.log(0);
+	console.log(1);
+	console.log(2);
+	console.log(3);
+	console.log(4);
 
 try doing the same "repeat what the computer did" for the `horizontal_line`
 function.
